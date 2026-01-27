@@ -1,0 +1,13 @@
+---
+
+```txt
+openai
+datasets
+nltk
+rake-nltk
+comet-ml
+torch
+numpy
+pandas
+matplotlib
+tqdm
