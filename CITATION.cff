@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper or project entry."
+title: "Reflective Translation: Self-Reflection for Improved MT"
+authors:
+  - family-names: Cheng
+    given-names: Nicholas
+    orcid: ""
+date-released: 2026-01-27
+version: 0.1.0
+doi: ""
+url: "https://github.com/Nickcheng123/reflective-translation-mt"
+license: MIT
+abstract: |
+  Code and scripts for reproducing experiments from "Reflective Translation".
+  This repository contains modular pipeline code, plotting scripts, and analysis tools to reproduce the tables and figures.

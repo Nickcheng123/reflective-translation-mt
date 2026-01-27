@@ -1,3 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+.env
+venv/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+data/raw/
+data/*.zip
+data/*.tar.gz
+data/*.tgz
+outputs/tmp/
+outputs/cache/
+
+# OS files
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Secrets
+*.pem
+*.key
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
