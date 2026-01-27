@@ -1,0 +1,1911 @@
+source	reference	first_translation	first_bleu	first_comet	reflection	second_translation	second_bleu	second_comet	second_correct
+_Kopisha indawo	_Copy Location	Copy the place	0	0.6200770139694214	"Error Diagnosis: Incorrect phrasing
+Minimal Correction: Use appropriate term
+Must-Preserve: indawo
+Factual Detail: Maintain the meaning of ""location"" in the translation."	Duplicate the location	0	0.6155130863189697	FALSE
+Hlela uhlelo lokuqala kabusha	Edit Startup Program	Organize the initial program again	0	0.5071181058883667	"Error Diagnosis: Loss of specificity
+Minimal Correction: Use specific terminology
+Must-Preserve: Startup Program
+Factual Detail: Emphasize the specific nature of the program being referenced."	Revise the startup program afresh	0	0.5883355736732483	FALSE
+Vala ubuso besiga-nyezi	background, style	Close the face of the rain-maker	0	0.3534841239452362	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use appropriate context
+Must-Preserve: Vala, ubuso, besiga-nyezi
+Factual Detail: Express the concept of 'closing the face of the sun' as background or style."	Close the face of the sun	0	0.3798142969608307	FALSE
+Umphelelo wesikhathi _sokulinda:	Maximum _wait time:	The conclusion of the waiting period:	0.032359348	0.6206947565078735	"Error Diagnosis: Misinterpretation of meaning.
+Minimal Correction: Use the term ""maximum wait time.""
+Must-Preserve: ""umphelelo wesikhathi""
+Factual Detail: Emphasize the concept of waiting time."	The maximum waiting time:	0.12121093525642128	0.8013994693756104	TRUE
+_Ithuluzi kokumele	_Toolbar	The tool that is necessary	0	0.48759713768959045	"Error Diagnosis: Misinterpretation
+Minimal Correction: Replace with correct term
+Must-Preserve: Ithuluzi, kokumele
+Factual Detail: The translation should accurately reflect the term ""Ithuluzi kokumele"" as ""Toolbar""."	Toolbar	0	0.9043678641319275	TRUE
+Hlanza ukhiphi miphumela	Debugging output	Clean out the results	0	0.46637827157974243	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use technical term
+Must-Preserve: Hlanza, miphumela
+Factual Detail: Technical process of debugging output."	Debug where the results are coming from	0	0.5891845226287842	FALSE
+Vula uhlamvu olukhethiwe efasiteleni	Move the current selection to the other pane in the window	Open the selected character in the window	0.11716964002269797	0.6273723244667053	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use correct action verb
+Must-Preserve: selected character, other pane
+Factual Detail: Move action, not open."	Move the selected character to the other pane	0.2825677270462821	0.8026789426803589	TRUE
+Ukuzazisa	ID	Self-awareness	0	0.4883328676223755	"Error Diagnosis: Incorrect translation
+Minimal Correction: Use proper terminology
+Must-Preserve: ID
+Factual Detail: The term refers to a specific aspect of self-awareness."	Self-awareness	0	0.4883328676223755	FALSE
+Okujikelele	General	Circular	0	0.6461637020111084	"Error Diagnosis: Inaccurate translation
+Minimal Correction: Change from ""Circular"" to ""General""
+Must-Preserve: Okujikelele
+Factual Detail: Reflects the overall or general nature of the original isiZulu term."	General	1	0.9844248294830322	TRUE
+Akuphumelelanga ukuguqula isithombe	Couldn't convert image	It was not possible to change the image.	0.02573285	0.695972204	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use more idiomatic expression
+Must-Preserve: Couldn't convert image
+Factual Detail: Express the inability to change the image accurately."	The image couldn't be altered.	0.038481967	0.6957389116287231	FALSE
+Izithombe zonke	_Image	All the pictures	0	0.6382977962493896	"Error Diagnosis: Over-generalization
+Minimal Correction: Use singular form
+Must-Preserve: Image
+Factual Detail: Emphasize individual images rather than a collection."	Each image	0	0.6030896306037903	FALSE
+Gcina isithombe	Save Image	Keep the picture	0	0.5860963463783264	"Error Diagnosis: Incorrect verb choice
+Minimal Correction: Change ""keep"" to ""save""
+Must-Preserve: Image
+Factual Detail: The action is for preserving a digital file."	Save the image	0.0724975	0.9091619849205017	TRUE
+Cisha	Shut Down	Cisha	0	0.5863510370254517	"Error Diagnosis: Literal phrasing
+Minimal Correction: Replace with ""Shut Down""
+Must-Preserve: Cisha
+Factual Detail: The action of shutting down."	Shut Down	0.2213885886251307	0.9830284118652344	TRUE
+Ukugcwaliswa	Saturation	Fulfillment	0	0.4522877037525177	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change from ""Fulfillment"" to ""Saturation""
+Must-Preserve: Ukugcwaliswa
+Factual Detail: Reflects the concept of being completely filled or saturated."	Saturation	1	0.9870988726615906	TRUE
+Akunasithombe esifakiwe.	Image loading failed.	There are no images attached.	0.037593405	0.5800801515579224	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""Image loading failed.""
+Must-Preserve: Akunasithombe
+Factual Detail: Conveys the failure of image loading."	Image loading failed.	1	0.9744549989700317	TRUE
+Inkino_bho:	_Bottom:	Inkino_bho:	0.067544361	0.6185832023620605	"Error Diagnosis: Incorrect translation of the word ""Bottom"".
+Minimal Correction: Replace ""Inkino_bho"" with ""Bottom"".
+Must-Preserve: None
+Factual Detail: The correct translation is crucial for accurate understanding."	Bottom:	0.067544361	0.8623731732368469	TRUE
+Hambisa uhlamvu olukhethiwe ngalunye ukuya kudoti	Move the selected file out of the trash to ‚Äú%s‚Äù	Move each selected item to the trash.	0.047939885058777255	0.6981446743011475	"Error Diagnosis: Incorrect destination specified
+Minimal Correction: Change destination to ""out of the trash""
+Must-Preserve: selected file
+Factual Detail: Moving the item out of the trash is the correct action."	Move each selected item out of the trash	0.20479259709128803	0.6976087093353271	FALSE
+_Jikeliza isikhala sohlu oloqonde-thwi	_Rotate on vertical panels	Rotate the list in a straight line	0	0.5864062309265137	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use vertical panels
+Must-Preserve: Rotate
+Factual Detail: Specifies the direction of rotation."	Rotate the vertical panel clockwise.	0.037593405	0.7578156590461731	TRUE
+_Ibizo:	_Title:	Noun:	0.067544361	0.6616660356521606	"Error Diagnosis: Incorrect part of speech.
+Minimal Correction: Change ""Noun"" to ""Title"".
+Must-Preserve: Ibizo
+Factual Detail: Capturing the meaning of a title or name."	"Title:
+Ibizo"	0.0724975	0.697577178	FALSE
+Gcina isithombe	Save Image	Keep the picture	0	0.5860963463783264	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use accurate equivalent term
+Must-Preserve: Image
+Factual Detail: The translation should accurately convey the action of saving an image."	Save the image	0.0724975	0.9091619849205017	TRUE
+_Imniningwane yendikima	Show details	Details of the melody	0	0.5825016498565674	"Error Diagnosis: Incorrect phrasing
+Minimal Correction: Replace with ""Show details""
+Must-Preserve: Details
+Factual Detail: Capture the idea of displaying specific information."	Show details of the melody	0.12121093525642128	0.6576677560806274	FALSE
+Okujikelele	General	Circular	0	0.6461637020111084	"Error Diagnosis: Inaccurate categorization
+Minimal Correction: Change from ""Circular"" to ""General""
+Must-Preserve: Okujikelele
+Factual Detail: Conveys the concept of being all-encompassing."	Okujikelele	0	0.619026244	FALSE
+_Ungayenzi	_Undo	You can do it	0	0.4327857494354248	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Change from ""You can do it"" to ""Undo""
+Must-Preserve: Ungayenzi
+Factual Detail: The action should be to undo, not to do."	Undo	0	0.6789588928222656	FALSE
+Okuthandwa iNhlanzi	Fish Preferences	What the Fish Likes	0.061033220311973134	0.6915413737297058	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use more accurate term
+Must-Preserve: Fish, Preferences
+Factual Detail: Reflects the idea of fish having specific preferences."	Beloved Fish Preferences	0.21177974141341938	0.78821677	TRUE
+Ifayela elivumelekile .ifayela lobuso bekhomphyutha	File is not a valid .desktop file	A valid file. A computer face file.	0.030601688609851067	0.5666828155517578	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use accurate translation for ""desktop""
+Must-Preserve: File, valid
+Factual Detail: Correctly identify the file as a desktop file."	A valid file. A desktop file.	0.034010868	0.6689372658729553	FALSE
+Ayaziwa	Unknown	It is known	0	0.5686625838279724	"Error Diagnosis: Opposite meaning
+Minimal Correction: Change to ""Unknown""
+Must-Preserve: Ayaziwa
+Factual Detail: Conveys the idea of not being known."	Unknown	1	0.9875068664550781	TRUE
+_Lungisa	_Debug	Lungisa	0	0.6414692401885986	"Error Diagnosis: Incorrect translation
+Minimal Correction: Replace with correct translation
+Must-Preserve: _Lungisa
+Factual Detail: Means ""Debug"" in isiZulu"	_Debug_	0	0.968447208	TRUE
+Hlola ohele ngogama-hele kuphela	Search for files by file name only	Check only with the name tag.	0.038481967	0.47331759333610535	"Error Diagnosis: Incorrect phrasing
+Minimal Correction: Use ""file name"" instead of ""name tag""
+Must-Preserve: Search for files
+Factual Detail: Must specify searching by file names only."	Search only by the file name.	0.10303305383657904	0.8418788909912109	TRUE
+Ukuma	Orientation	Standing	0	0.5347418785095215	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use correct term
+Must-Preserve: Ukuma
+Factual Detail: Reflects the concept of orientation."	Ukuma	0	0.6541398167610168	FALSE
+_Isibekisi-bhukwini	_Bookmarks	The book cover	0	0.5547983050346375	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use correct term
+Must-Preserve: isiZulu term
+Factual Detail: Bookmarks are different from book covers."	Bookmark	0	0.6511422991752625	FALSE
+_Ukubala	Countdown length	Counting	0	0.588040292	"Error Diagnosis: Inaccurate length interpretation
+Minimal Correction: Add ""length"" to convey the correct meaning
+Must-Preserve: Countdown
+Factual Detail: Emphasize the duration or length aspect of the countdown."	Counting the length	0.0724975	0.7510061264038086	TRUE
+i-GDM iqala futhu ...	Restarting computer...	The GDM also begins ...	0.045649693	0.5017624497413635	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to reflect the actual meaning
+Must-Preserve: GDM
+Factual Detail: The translation should convey restarting the computer."	The GDM restarts ...	0.061033220311973134	0.6116544008255005	FALSE
+Fiphele	%l:%M %p	Fiphele	0	0.5140239000320435	"Error Diagnosis: Missing time format
+Minimal Correction: Add time format
+Must-Preserve: Fiphele
+Factual Detail: Converting isiZulu time to 12-hour format."	It is twelve o'clock.	0	0.32272279262542725	FALSE
+_Ungenzi	_Undo	You are not doing	0	0.35310715436935425	"Error Diagnosis: Incorrect verb choice
+Minimal Correction: Use correct verb ""Undo""
+Must-Preserve: ""Ungenzi""
+Factual Detail: Correctly convey the meaning of ""undo"" in isiZulu."	You do not undo	0	0.4236268699169159	FALSE
+_Vula idokhumende	_Unlock Document	Open the document	0	0.6971538066864014	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Change to ""Unlock Document""
+Must-Preserve: ""Vula idokhumende""
+Factual Detail: Emphasize the action of unlocking rather than simply opening."	Unlock Document	0.067544361	0.9309539198875427	TRUE
+%s ayinamsebenzi. Ithatha isikhala ecwecweni nongqoqelelo sikhathi, uma ihlohliwe izothatha isikhalo esibalulekile esikhaleni sohlu nemqondo. Uma utholakala uyisebenzisa, makaphuthumiswe ahlolwe ingqondo.	%s has no use what-so-ever. It only takes up disk space and compilation time, and if loaded it also takes up precious panel space and memory. Anybody found using it should be promptly sent for a psychiatric evaluation.	%s is useless. It takes up space in the document and accumulates time; when neglected, it will take an important complaint in the space of the list and the mind. If you find it, it should be urgently reviewed.	0.05446267	0.5416324734687805	"Error Diagnosis: Incorrect meaning interpretation
+Minimal Correction: Use accurate translation
+Must-Preserve: %s, is useless
+Factual Detail: Convey lack of usefulness in the translation."	%s is pointless. It occupies space unnecessarily and wastes time; if ignored, it will take up valuable space in the list and in the mind. If found, it should be promptly addressed.	0.09054748	0.6297823190689087	FALSE
+Indawo ngezi(usuku)	Location at (date)	Place for (days)	0.05428694	0.6139269471168518	"Error Diagnosis: Misinterpretation of ""indawo""
+Minimal Correction: Change ""place"" to ""location""
+Must-Preserve: ""Indawo""
+Factual Detail: Emphasizes the specific location rather than a general place."	Location for this (day)	0.049475702907177795	0.6642469763755798	FALSE
+Cima umnlandu	Clea_r History	Plunge into the depths	0	0.46859896183013916	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use accurate translation
+Must-Preserve: Cima, umnlandu
+Factual Detail: Reflects the concept of clearing history."	Clear the history	0	0.6936119794845581	FALSE
+Into engakwazi ukuqaliswa	Not a launchable item	Something that can be initiated	0	0.6401418447494507	"Error Diagnosis: Misinterpretation of negation
+Minimal Correction: Use negative phrasing
+Must-Preserve: Not a launchable item
+Factual Detail: Emphasize the inability to initiate."	Not something that can be initiated	0.037593405	0.7081682085990906	TRUE
+Hl_ela	_Edit	Hl_ela	0	0.6818606853485107	"Error Diagnosis: Missing content
+Minimal Correction: Add missing information
+Must-Preserve: Hl_ela
+Factual Detail: Retain the original isiZulu term."	Wait	0	0.5265138745307922	FALSE
+Tshengisa uhlu _lwezisebenziso ezaziwayo	List of locations	Show a list of known applications	0.037593405	0.6710320711135864	"Error Diagnosis: Misinterpretation of the meaning.
+Minimal Correction: Show a list of locations
+Must-Preserve: List
+Factual Detail: Must accurately convey the concept of a list."	Display a list of known services	0.037593405	0.700324297	TRUE
+Dala i_ngobo yomlando	Create _Archive	Create a historical record	0.061033220311973134	0.6305095553398132	"Error Diagnosis: Overly specific translation
+Minimal Correction: Use broader term
+Must-Preserve: Create
+Factual Detail: Emphasize the action of creating instead of specifying the type of record."	Create a documentation of history	0.045649693	0.5368847846984863	FALSE
+Nqabela imisindo uma _ukude noma umatasatasa	Disable sounds when _away or busy	Silence the noise when it is too far or too loud.	0.023837651	0.5223203301429749	"Error Diagnosis: Misinterpreted meaning
+Minimal Correction: Use ""disable sounds"" instead of ""silence the noise""
+Must-Preserve: _away, busy
+Factual Detail: The translation should convey the idea of turning off sounds when not needed."	Turn off unnecessary sounds when away or busy.	0.089393672	0.8262872099876404	TRUE
+Vula ngesinye _isisebenzisi esinye...	Other _Application...	Open with another application...	0.045649693	0.6076234579086304	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use correct term
+Must-Preserve: Other, Application
+Factual Detail: Maintain the sense of referring to a different application."	Open with another application...	0.045649693	0.6076234579086304	FALSE
+Uma ngabe kungaboniswa isaziso esizivelelayo uma ngabe othintwayo eya ngaphandle kolayini.	Whether to show a popup notification when a contact goes offline.	If it could show a visible notice when the contacted person goes outside the line.	0.045799113	0.5865778923034668	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use accurate wording
+Must-Preserve: popup notification, contact, offline
+Factual Detail: The notification should pop up when the contact goes offline."	A popup notification should appear when the contacted person goes offline outside the line.	0.060538296	0.7280881404876709	TRUE
+Inkomba yokugcina	End index	The final reference	0	0.6151480674743652	"Error Diagnosis: Misinterpretation of ""inkomba yokugcina"".
+Minimal Correction: Change to ""End index"".
+Must-Preserve: Inkomba yokugcina
+Factual Detail: Reflects the concept of a final reference point."	End index	0.2213885886251307	0.9801321625709534	TRUE
+Isibonisi %s sihlangabezane nephutha masiqala.	The icon view encountered an error.	The indicator %s encountered an error as we began.	0.13190955568171472	0.5970041751861572	"Error Diagnosis: Inaccurate context
+Minimal Correction: Replace with correct term
+Must-Preserve: icon view, error
+Factual Detail: The translation should reflect encountering an error in the icon view."	The icon view encountered an error as we began.	0.537284966	0.8096901774406433	TRUE
+Akusiyona into engathunyelwa	Not a launchable item	It is not something that can be sent.	0	0.5883473753929138	"Error Diagnosis: Misinterpretation of meaning
+Minimal Correction: Use appropriate contextual meaning
+Must-Preserve: Not, launchable item
+Factual Detail: Emphasis on the inability to be launched."	It is not something that can be launched.	0	0.6884878873825073	FALSE
+Akha umqalisi omusha	Create a new folder '%s'	Build a new beginning	0.061884293332739315	0.5066707730293274	"Error Diagnosis: Misinterpreted context
+Minimal Correction: Use correct software terminology
+Must-Preserve: Create a new folder
+Factual Detail: Specifies a technical action for organizing digital files."	Create a new folder	0.36787944117144233	0.8261463046073914	TRUE
+Isiqalisi sabelo	Weather Information	The beginning of the story	0	0.525553823	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use accurate translation
+Must-Preserve: Isiqalisi, sabelo
+Factual Detail: Refers to weather information, not a story."	Weather forecast	0.067544361	0.8452311158180237	TRUE
+Isho inani lamachashazana uma indawo yohlu ifihlekele ngokuzenzakalela ekhoneni. Lesishuxulelo sibalulekile uma auto_hide uma kuyiqiniso.	Specifies the number of pixels visible when the panel is automatically hidden into a corner. This key is only relevant if the auto_hide key is true.	It specifies the value of the tooltip when the list area automatically hides in the corner. This configuration is important if auto_hide is true.	0.10003303037954804	0.678657055	"Error Diagnosis: Incorrect context interpretation
+Minimal Correction: Revise the context for accurate translation.
+Must-Preserve: auto_hide, corner, relevant
+Factual Detail: Specifies visibility size when panel hides in corner with auto_hide true."	Specify the number of tooltips when the panel automatically hides in the corner. This configuration is crucial when auto_hide is true.	0.1333927406491165	0.715990424	TRUE
+_Bonisa uhlu lwabangathintwa	_Show Contact List	Show the list of those who can be contacted	0	0.5622006058692932	"Error Diagnosis: Inaccurate phrasing
+Minimal Correction: Use more concise wording
+Must-Preserve: Show, Contact List
+Factual Detail: Retain the idea of displaying a list of contacts."	Show the contact list	0	0.8480826616287231	TRUE
+ngaziwa	Unknown	I am known.	0	0.5310394167900085	"Error Diagnosis: Incorrect negation.
+Minimal Correction: Change ""known"" to ""unknown"".
+Must-Preserve: ngaziwa
+Factual Detail: Indicates lack of knowledge or recognition."	I am unknown.	0	0.7261068820953369	TRUE
+_Isexwayiso	_Hint	Warning	0	0.5601083040237427	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Change from ""Warning"" to ""Hint""
+Must-Preserve: Isexwayiso
+Factual Detail: The word should convey a subtle suggestion rather than a strong caution."	Hint	0	0.6939696669578552	FALSE
+Ulwembu	Network	A swarm	0	0.5767013430595398	"Error Diagnosis: Inaccurate translation
+Minimal Correction: Change to ""network""
+Must-Preserve: Ulwembu
+Factual Detail: Reflects the concept of interconnectedness."	Network	1	0.9799266457557678	TRUE
+Ulwembu	Network	The cloud	0	0.6768069863319397	"Error Diagnosis: Incorrect context
+Minimal Correction: Change to ""network""
+Must-Preserve: Ulwembu
+Factual Detail: The term refers specifically to a network, not a cloud."	Ulwembu	0	0.6466084718704224	FALSE
+domain	The certificate has expired and should not be considered valid. Check that your computer's date and time are accurate.	domain	0	0.21256884932518005	"Error Diagnosis: Misinterpretation
+Minimal Correction: Translate the isiZulu phrase ""domain"" as ""The certificate has expired.""
+Must-Preserve: Check that your computer's date and time are accurate
+Factual Detail: Emphasize the importance of checking the computer's date and time."	The certificate has expired.	0.023598465499315865	0.5935789942741394	FALSE
+Isingoso	Mouse	Moss	0	0.5177430510520935	"Error Diagnosis: Incorrect translation
+Minimal Correction: Correct translation
+Must-Preserve: Isingoso
+Factual Detail: Must be translated as ""Mouse"" in English."	Mouse	1	0.9824016690254211	TRUE
+Ngakhoni ukuqala uhlelo %s: %ss	Unable to establish service %s: %s	I couldn't start the program %s: %ss	0.234623503	0.6904758810997009	"Error Diagnosis: Incorrect phrasing
+Minimal Correction: Use correct terminology
+Must-Preserve: Unable, establish, service
+Factual Detail: Express the action of setting up a service accurately."	Unable to start the service %s: %ss	0.4518010018049224	0.8439313173294067	TRUE
+Uma indawoyohlu icishiwe, indawo yohlu ne its hlelo kuyalahleka. Cisha lendawo yohlu?	When a panel is deleted, the panel and its settings are lost.	If the list area is deleted, the list location and its settings will be lost. Delete this list area?	0.17428995613227571	0.6924861669540405	"Error Diagnosis: Inaccurate meaning.
+Minimal Correction: Use correct translation for ""panel"" instead of ""list area.""
+Must-Preserve: panel, settings
+Factual Detail: The reference text is referring to a panel, not a list area."	If the panel is deleted, the panel location and its settings will be lost. Delete this panel?	0.3264128346656048	0.8052791953086853	TRUE
+Futhi angeke ngisaba i-Capulet.	And I'll no longer be a Capulet.	And I will not fear the Capulet.	0.088894364	0.6854473948478699	"Error Diagnosis: Misinterpreted possessive pronoun.
+Minimal Correction: Change ""the"" to ""be.""
+Must-Preserve: Capulet
+Factual Detail: The speaker's declaration of no longer being part of the Capulet family."	And I will no longer be a Capulet.	0.6606328636027614	0.8750771284103394	TRUE
+Ukugcwaliswa	Saturation	Fulfillment	0	0.4522877037525177	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""saturation""
+Must-Preserve: Ukugcwaliswa
+Factual Detail: Reflects the concept of being filled to capacity."	Saturation	1	0.9870988726615906	TRUE
+Okuvamile	General	Commonly	0	0.5885087847709656	"Error Diagnosis: Inaccurate meaning
+Minimal Correction: Replace ""Commonly"" with ""General""
+Must-Preserve: Okuvamile
+Factual Detail: Indicates something widely accepted or acknowledged."	Okuvamile	0	0.4544937014579773	FALSE
+Izilimi zokuhlola ukupeletwa	Spell checking languages	Languages for assessing proficiency	0	0.6193172335624695	"Error Diagnosis: Misinterpretation
+Minimal Correction: Change to ""Spell checking languages""
+Must-Preserve: Languages, Spell checking
+Factual Detail: The translation should refer to languages used for spell checking."	Spell checking languages	0.5757197301274735	0.9516122341156006	TRUE
+Veza/fihla i-pane yehlangothi lewindi.	Show/Hide the image gallery pane.	Show/hide the side panel of the window.	0.034010868	0.60326618	"Error Diagnosis: Literal phrasing
+Minimal Correction: Replace ""side panel"" with ""image gallery""
+Must-Preserve: ""Veza/fihla i-pane yehlangothi lewindi""
+Factual Detail: The translation should accurately reflect the function of showing/hiding an image gallery pane."	Show/hide the image gallery pane.	0.7598356856515925	0.9051333069801331	TRUE
+Hambisa i-evince ngendlela yombukiso	Run evince in presentation mode	Present the evidence in a demonstrative manner.	0.028599617161713803	0.6348616480827332	"Error Diagnosis: Incorrect action verb.
+Minimal Correction: Use correct action verb.
+Must-Preserve: evince
+Factual Detail: Action of running evince in presentation mode."	Run evince in presentation mode.	0.7598356856515925	0.9159807562828064	TRUE
+Uhele wetekisi	Text Editor	The taxi driver	0	0.5271439552307129	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Replace with ""Text Editor""
+Must-Preserve: Uhele, wetekisi
+Factual Detail: The translation refers to a software tool, not a profession."	Text Editor	0.2213885886251307	0.9880414605140686	TRUE
+_Hlela	_Format‚Ä¶	Arrange	0	0.6296138167381287	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Use correct term
+Must-Preserve: _Hlela
+Factual Detail: The translation should accurately convey the meaning of 'format'."	_Hlela	0	0.8344396948814392	TRUE
+Bonisa ongabathinta abangaphandle kolayini	Show offline contacts	Show the contacts of those outside the line	0.034010868	0.6194455623626709	"Error Diagnosis: Misinterpretation of ""abangaphandle""
+Minimal Correction: Use correct translation for ""abangaphandle""
+Must-Preserve: Bonisa, abangaphandle
+Factual Detail: Indicates showing contacts that are offline."	Show the contacts who are offline	0.049475702907177795	0.7230474948883057	TRUE
+%s: Ngakhoni ukufunda Uhlobo Lwesixhumanisi	%s: Could not read Connection Type	I was able to learn the Type of Link	0.02573285	0.6054115295410156	"Error Diagnosis: Misinterpreted meaning
+Minimal Correction: Use ""Could not read"" instead of ""I was able to learn""
+Must-Preserve: Connection Type
+Factual Detail: The inability to understand the type of connection."	I could not read the Type of Connection	0.084703925	0.7592125535011292	TRUE
+_I-Tab edlule	_Previous	The previous Tab	0	0.6158051490783691	"Error Diagnosis: Overly specific translation
+Minimal Correction: Simplify to match reference
+Must-Preserve: Previous
+Factual Detail: The translation should convey the idea of something that came before."	The previous tab	0	0.6725351214408875	FALSE
+Sebenzisa _Iphutha Lesizinda	Use _Default Background	Use _Foundation Error	0.0724975	0.5474994778633118	"Error Diagnosis: Incorrect term choice
+Minimal Correction: Use correct term
+Must-Preserve: Use, Default, Background
+Factual Detail: Emphasizes the default setting or original state."	Use _Default Settings	0.21177974141341938	0.8012967705726624	TRUE
+Isibonisi %s sihlangabezane nephutha masiqala.	The list view encountered an error.	The display %s encountered an error as we started.	0.13190955568171472	0.6352890133857727	"Error Diagnosis: Misinterpreted context
+Minimal Correction: Change ""display"" to ""list view""
+Must-Preserve: encountered an error
+Factual Detail: Emphasize the error occurring in the list view."	The list view %s encountered an error as we started.	0.18499944101432772	0.700458825	TRUE
+_Phezulu	_Up	Above	0	0.5003823637962341	"Error Diagnosis: Inaccurate translation
+Minimal Correction: Change to ""Up""
+Must-Preserve: _Phezulu
+Factual Detail: Emphasize directionality of position."	Up	0	0.830679178	TRUE
+Umphathi wengobo yomlando	Archive Manager	The administrator of the historical record	0	0.5457020401954651	"Error Diagnosis: Inaccurate title interpretation
+Minimal Correction: Use more accurate job title
+Must-Preserve: umphathi, yomlando
+Factual Detail: Reflect the role of managing historical records."	The manager of the historical archives	0	0.5880259275436401	FALSE
+Fihla indawo yohlu ekhoneni ngokuzenzakalela	Automatically hide panel into corner	Hide the list location in the corner automatically	0.028599617161713803	0.6722988486289978	"Error Diagnosis: Misinterpreted meaning
+Minimal Correction: Adjust phrasing for accuracy
+Must-Preserve: Automatically hide panel
+Factual Detail: The action should be done automatically and the location should be a panel."	Automatically conceal the panel location in the corner	0.037639213	0.8216400146484375	TRUE
+Dala i_ngobo yomlando	Create _Archive	Create a historical record	0.061033220311973134	0.6305095553398132	"Error Diagnosis: Misinterpreted meaning
+Minimal Correction: Use accurate term
+Must-Preserve: Create, Archive
+Factual Detail: Emphasize the act of archiving, not just creating."	Archive the historical record	0	0.6067891716957092	FALSE
+Isabelo "%s" asikho.	The history location doesn't exist.	The item "%s" is not available.	0.027895820162122397	0.5500833988189697	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use correct meaning
+Must-Preserve: Isabelo, asikho
+Factual Detail: Convey absence, not availability."	The item "%s" is not in stock.	0.02568481	0.5205844640731812	FALSE
+Igama lozokwengamela elilindelwe: %s	Expected hostname: %s	The anticipated name of the overseer is: %s	0.12867201458772706	0.6179212331771851	"Error Diagnosis: Misinterpretation of the term ""lozokwengamela"".
+Minimal Correction: Replace with ""hostname"".
+Must-Preserve: Expected
+Factual Detail: Convey the sense of anticipation or expectation."	The anticipated hostname is: %s	0.20748340713083765	0.8725191950798035	TRUE
+_Thwebula isithombe	_Take a photo	Download the image	0	0.6646977066993713	"Error Diagnosis: Incorrect verb choice
+Minimal Correction: Replace with ""Take a photo""
+Must-Preserve: Thwebula, isithombe
+Factual Detail: The action is about capturing an image, not downloading it."	Take a photo	0.21177974141341938	0.9051117300987244	TRUE
+Kwesokudla	Right	To the right	0	0.695006788	"Error Diagnosis: Unnecessary preposition
+Minimal Correction: Remove preposition
+Must-Preserve: Right
+Factual Detail: The translation should reflect the direction without unnecessary words."	To the right	0	0.695006788	FALSE
+Akunasikhala kumfikela.	%S more space is required to copy to the destination.	There is no time for him to arrive.	0.024266289757869118	0.4736019968986511	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use correct meaning
+Must-Preserve: Akunasikhala kumfikela
+Factual Detail: Emphasize the lack of space for copying to the destination."	There is no room for him to arrive.	0.024266289757869118	0.47546350955963135	FALSE
+F_akela umlayelo kacima uzodlula udoti	I_nclude a Delete command that bypasses Trash	The command to delete will surpass the trash.	0.02573285	0.5734148621559143	"Error Diagnosis: Misinterpretation of ""umlayelo"" as ""command to delete"".
+Minimal Correction: Change ""The command to delete will surpass the trash"" to ""Include a Delete command that bypasses Trash"".
+Must-Preserve: ""Delete command""
+Factual Detail: The translation should convey the idea of skipping the trash when deleting."	Include a Delete command that bypasses Trash	0.8091067115702212	0.8186094760894775	TRUE
+intwana yemenyu yesisakazi	radio menu item	menu item of the broadcaster	0.12121093525642128	0.6890907287597656	"Error Diagnosis: Misinterpretation
+Minimal Correction: Change to ""radio station menu item""
+Must-Preserve: intwana yemenyu, yesisakazi
+Factual Detail: Specifies that the menu item is from a radio station."	radio station menu item	0.18616487055295167	0.9440967440605164	TRUE
+Akunasikhala kumfikela.	%S more space is required to copy to the destination.	There is no time wasted on him.	0.020628634	0.47085049748420715	"Error Diagnosis: Misinterpreted meaning.
+Minimal Correction: Use correct translation.
+Must-Preserve: more space
+Factual Detail: Emphasize need for additional space."	There is no room for him to arrive.	0.024266289757869118	0.47546350955963135	FALSE
+Umngenisi-bizo:	Password:	Noun	0	0.43884384632110596	"Error Diagnosis: Inaccurate translation
+Minimal Correction: Change ""Noun"" to ""Password""
+Must-Preserve: Umngenisi-bizo
+Factual Detail: Correct translation of isiZulu term."	Password	0.36787944117144233	0.8929982781410217	TRUE
+Vumela abangenisi _abacushwe buqamama	A_llow remote system administrator login	Allow those who are oppressed to be supported closely.	0	0.4347049295902252	"Error Diagnosis: Misinterpretation of isiZulu phrase.
+Minimal Correction: Translate as ""support remote system administrators"".
+Must-Preserve: Vumela abangenisi
+Factual Detail: The phrase refers to granting permission for remote access to system administrators."	Grant permission to remote system administrators	0.097177166	0.8271934986114502	TRUE
+Itekisi lodwa	Text	Only the taxi	0	0.4937044084072113	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use more contextually appropriate translation
+Must-Preserve: Itekisi lodwa
+Factual Detail: The translation should reflect the correct context of the original isiZulu phrase."	Only one taxi	0	0.4911121726036072	FALSE
+_Phezulu	_Up	Above	0	0.5003823637962341	"Error Diagnosis: Inaccurate translation
+Minimal Correction: Change to ""Up""
+Must-Preserve: Phezulu
+Factual Detail: Captures the direction of the location accurately."	Up	0	0.830679178	TRUE
+ibha yemenyu	info bar	menu board	0	0.579173207	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Update to ""info bar""
+Must-Preserve: ""ibha yemenyu""
+Factual Detail: ""ibha yemenyu"" refers to a bar displaying information, not just a menu."	info bar	0.2213885886251307	0.9830957651138306	TRUE
+Dlulela engomeni elandelayo	Next track	Proceed to the next song	0	0.6734299659729004	"Error Diagnosis: Inaccurate wording
+Minimal Correction: Use ""Next track"" instead of ""next song""
+Must-Preserve: engomeni, elandelayo
+Factual Detail: Refers to the next music track, not necessarily a song."	Proceed to the next track	0.045649693	0.8053097724914551	TRUE
+Ulwembu	Network	The swarm	0	0.5186271667480469	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change ""swarm"" to ""network""
+Must-Preserve: Ulwembu
+Factual Detail: Emphasize the interconnected nature of the concept."	Ulwembu	0	0.6466084718704224	FALSE
+Hambisa i-evince ngendlela yombukiso	Run evince in presentation mode	Deliver the evidence in the form of a presentation	0.030601688609851067	0.618114173	"Error Diagnosis: Incorrect software reference
+Minimal Correction: Use correct software name
+Must-Preserve: i-evince
+Factual Detail: Specific software name required for accuracy."	Present the evidence using Evince software	0	0.627467692	FALSE
+X ubekelwe ukusebenza	X display to use	X is assigned to work	0.05428694	0.6563723087310791	"Error Diagnosis: Misinterpretation of meaning
+Minimal Correction: Change ""assigned"" to ""displayed""
+Must-Preserve: X
+Factual Detail: Emphasize the action of displaying, not just working."	X is displayed for work	0.045649693	0.7512138485908508	TRUE
+Ongathintwa okhethiwe ungaphandle kolayini	The contact is offline	If you are selected, you are outside the line.	0	0.4560060501098633	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use correct translation
+Must-Preserve: okhethiwe, ungaphandle kolayini
+Factual Detail: Reflects the idea of being offline."	If you are not chosen, you are offline.	0.023457495174891017	0.5450354218482971	FALSE
+Ungan_aki ukupotsozwa kabili kwangaphakathi:	_Ignore duplicate keypresses (Bounce Keys)	You cannot be caught twice from within.	0	0.4477430582046509	"Error Diagnosis: Misinterpretation of the original meaning.
+Minimal Correction: Use the correct translation for ""Ignore duplicate keypresses.""
+Must-Preserve: Duplicate keypresses
+Factual Detail: Reflect the technical term for avoiding multiple key inputs."	Ignore duplicate keypresses.	0.079461006	0.8152458071708679	TRUE
+Isiqalisi sabelo	Weather Information	The introduction of the section	0	0.4471909701824188	"Error Diagnosis: Inaccurate meaning
+Minimal Correction: Replace with ""Weather Information""
+Must-Preserve: Isiqalisi sabelo
+Factual Detail: The original term refers specifically to weather information."	Weather Information	0.2213885886251307	0.982897937	TRUE
+Ngokwangaphandle	By extension	On the outside	0	0.543138862	"Error Diagnosis: Misinterpretation of context
+Minimal Correction: Use broader meaning
+Must-Preserve: Ngokwangaphandle
+Factual Detail: Capture the extended meaning of the term."	"Ngokwangaphandle
+On the outside"	0	0.5279117226600647	FALSE
+M_ayelana	_About	About M	0	0.6597744226455688	"Error Diagnosis: Incorrect omission of key word.
+Minimal Correction: Include the word ""About"" in the translation.
+Must-Preserve: M
+Factual Detail: Capturing the essence of the subject being discussed."	About M	0	0.6597744226455688	FALSE
+Vula uhlamvu ngalodwa olukhethiwe ngefasitela lokuyaluza	The geometry string for a navigation window.	Open a single selected character in the dialog window.	0.063026476	0.48123130202293396	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use accurate terminology
+Must-Preserve: geometry string, navigation window
+Factual Detail: Specific technical term needed"	Open a single selected character in the glyph window using the navigation panel.	0.024869542143125947	0.5995968580245972	FALSE
+Ulwembu	Network	The swarm	0	0.5186271667480469	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Replace with ""network""
+Must-Preserve: Ulwembu
+Factual Detail: The term refers to a connected system rather than a swarm."	Network	1	0.9799266457557678	TRUE
+Ayifani	Does not match	It is not the same.	0.037593405	0.6232336759567261	"Error Diagnosis: Overly literal translation
+Minimal Correction: Use more idiomatic equivalent
+Must-Preserve: Ayifani
+Factual Detail: Captures the essence of similarity/difference in isiZulu."	They are not the same.	0.037593405	0.6230079531669617	FALSE
+i-Shutter	Shutter	The Shutter	0.067544361	0.6954705715179443	"Error Diagnosis: The inclusion of the definite article ""The""
+Minimal Correction: Remove the definite article ""The""
+Must-Preserve: Shutter
+Factual Detail: Shutter is a noun referring to a device used to open and close a window."	Shutter	1	0.9851820468902588	TRUE
+Sebenzisa iphutha lesizinda sedesktop	Unable to rename desktop icon	Use desktop domain error	0.04753272	0.5517865419387817	"Error Diagnosis: Misinterpretation of source phrase.
+Minimal Correction: Correctly translate as ""desktop icon"".
+Must-Preserve: desktop, icon
+Factual Detail: The translation must convey the action of renaming the desktop icon."	Use the desktop icon	0.13100905001347277	0.704820991	TRUE
+Chofoza phezukomcimbi onebhlokhi elikhululekile eduze kwalo, futhi lizoshitshwa lenzwe ibhlokhi elingena lutho.	Click on any item that has a free block beside it, and it will be swapped with the empty block.	Press above the event with a block that is free near it, and it will be released to make a block that does not let anything in.	0.1959280139287724	0.5379160046577454	"Error Diagnosis: Incorrect action verb.
+Minimal Correction: Replace ""press"" with ""click"".
+Must-Preserve: ""free block"", ""swapped"", ""empty block""
+Factual Detail: The action should involve swapping a block with the empty space."	Click on the empty block next to the event with a free block, and it will be swapped to create a block that does not allow anything in.	0.26116807896416294	0.7118068933486938	TRUE
+isi-Baltic	Baltic	isi-Baltic	0	0.6940411925315857	"Error Diagnosis: Inclusion of unnecessary prefix ""isi-""
+Minimal Correction: Remove prefix ""isi-""
+Must-Preserve: Baltic
+Factual Detail: Language spoken in the Baltic region."	Baltic	1	0.9880052208900452	TRUE
+isiphakeli esisha	new server	a new supplier	0.0724975	0.6362985372543335	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Replace ""supplier"" with ""server""
+Must-Preserve: new
+Factual Detail: The translation refers to a new technological server, not a supplier."	a new server	0.21177974141341938	0.9507901072502136	TRUE
+Imbobo yokuxhumana	Port	Communication channel	0	0.5667418241500854	"Error Diagnosis: Incorrect translation
+Minimal Correction: Replace with ""Port""
+Must-Preserve: Imbobo yokuxhumana
+Factual Detail: Implies a physical location for communication."	Communication port	0	0.702824056	TRUE
+Umxhumanisi unqamukile, ngabe ufuna ukuyihambisa ku?	The Link "%s" is Broken. Move it to Trash?	The connector has been disconnected, do you want to move it to?	0.049070511103326775	0.5650258660316467	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use correct context and wording
+Must-Preserve: Link, Broken, Trash
+Factual Detail: The translation should convey that a link is broken and needs to be moved to the trash."	The connector has been disconnected, do you want to move it to the trash?	0.043314127	0.6370211243629456	FALSE
+Cisha	Shut Down	Cisha	0	0.5863510370254517	"Error Diagnosis: Misinterpretation
+Minimal Correction: Change to ""Shut Down""
+Must-Preserve: Cisha
+Factual Detail: Expresses the action of forcefully closing or stopping something."	Shut Down	0.2213885886251307	0.9830284118652344	TRUE
+isiphakeli esisha	new server	a new supplier	0.0724975	0.6362985372543335	"Error Diagnosis: Misinterpretation of context
+Minimal Correction: Use correct term
+Must-Preserve: new server
+Factual Detail: The translation should refer to a technological component, not a supplier."	new server	0.2213885886251307	0.9876099228858948	TRUE
+Ukuzazisa	ID	Self-awareness	0	0.4883328676223755	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Replace with ""ID""
+Must-Preserve: ""Ukuzazisa""
+Factual Detail: ""ID"" is the accurate translation for the isiZulu term ""Ukuzazisa."""	ID	1	0.9840797781944275	TRUE
+Umbala wokubona ngale	Transparency color	The color of sight beyond	0.045649693	0.5397589206695557	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use idiomatic expression
+Must-Preserve: Transparency color
+Factual Detail: Conveying the concept of clarity and visibility."	The transparency of seeing clearly	0	0.6270306706428528	FALSE
+_Isibekisi-bhukwini	Bookmarks	Book cover	0	0.5851174592971802	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""bookmarks""
+Must-Preserve: Isibekisi-bhukwini
+Factual Detail: The term refers specifically to bookmarks, not book covers."	Bookmarks	1	0.9829055666923523	TRUE
+%s: Ngakhoni ukufunda isibonakaliso senhlanganiso	%s: Could not read Session ID	I was able to learn the organization's sign.	0	0.47471168637275696	"Error Diagnosis: Misinterpretation of the source text
+Minimal Correction: Translate ""isibonakaliso"" as ""Session ID""
+Must-Preserve: Ngakhoni ukufunda, inhlangothi
+Factual Detail: Reflecting the specific term for ""Session ID"" in isiZulu."	I was able to learn the Session ID of the organization.	0.047747532	0.6065031290054321	FALSE
+_Ungakwenzi	_Undo	You shouldn't do that.	0	0.47421908378601074	"Error Diagnosis: Wrong interpretation
+Minimal Correction: Change to match correct translation
+Must-Preserve: Ungakwenzi
+Factual Detail: Translate accurately to convey meaning of ""undo"" in isiZulu."	Don't undo.	0	0.47602659463882446	FALSE
+Priscilla Mahlangu	translator-credits	Priscilla Mahlangu	0	0.5420687794685364	"Error Diagnosis: Lack of translation.
+Minimal Correction: Translate ""Priscilla Mahlangu"" accurately.
+Must-Preserve: Priscilla Mahlangu
+Factual Detail: Accurate attribution of the translator."	Priscilla Mahlangu	0	0.5420687794685364	FALSE
+_Isibekisi-bhukwini	Bookmarks	Book cover	0	0.5851174592971802	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""bookmarks""
+Must-Preserve: Isibekisi-bhukwini
+Factual Detail: Indicates small strips of paper used to mark a place in a book."	Bookmarks	1	0.9829055666923523	TRUE
+Igama lozokwengamela eliqinisekiswe isitifiketi alifani negama lesiphakeli.	The hostname verified by the certificate doesn't match the server name.	The name of the approved supervisor does not match the name of the supplier.	0.052906544014577034	0.6152351498603821	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use correct technical terms
+Must-Preserve: hostname, certificate, server name
+Factual Detail: Emphasis on technical accuracy."	The name of the certified server hostname does not match the server name.	0.3079300751569292	0.7739185094833374	TRUE
+_Ngenisa‚Ä¶	_Import‚Ä¶	I bring in‚Ä¶	0	0.5788838267326355	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Replace with accurate synonym
+Must-Preserve: Ngenisa
+Factual Detail: Correctly convey the action of ""bringing in"""	"Ngenisa...
+I bring in..."	0	0.5640230774879456	FALSE
+Oku_dlule	_Previous	What has passed	0	0.5474968552589417	"Error Diagnosis: Overly literal phrasing
+Minimal Correction: Use more idiomatic translation
+Must-Preserve: _Previous
+Factual Detail: Capture the sense of something that has already happened."	It's in the past	0	0.4332968592643738	FALSE
+Priscilla Mahlangu	translator-credits	Priscilla Mahlangu	0	0.5420687794685364	"Error Diagnosis: Missing translation.
+Minimal Correction: Insert translator-credits.
+Must-Preserve: Priscilla Mahlangu
+Factual Detail: Acknowledgement of the translator's contribution."	"Priscilla Mahlangu
+Translated by: [translator's name]"	0	0.6027637124061584	FALSE
+Hambisa amafasitela kundawo yokusebenzela yamanje uma akhulisiwe	Move windows to current workspace when unminimized	Move the windows to the current work area if they have been expanded.	0.049070511103326775	0.6195432543754578	"Error Diagnosis: Inaccurate interpretation
+Minimal Correction: Adjust translation for clarity
+Must-Preserve: windows, current workspace
+Factual Detail: Emphasize moving windows to the current workspace when unminimized."	Move the windows to the current workspace when unminimized.	0.32466791547509893	0.8212761878967285	TRUE
+Okuqukethwe isibaya akubonakalanga.	The folder contents could not be displayed.	The content of the kraal is not visible.	0.033866335496821456	0.5337498784065247	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use the correct terminology
+Must-Preserve: folder contents
+Factual Detail: The translation must refer to the contents of a folder."	The contents of the folder are not visible.	0.038479586	0.8014660477638245	TRUE
+%s uxhumeke egunjini	%s has joined the room	%s is connected in the room	0.1158794880657409	0.696107805	"Error Diagnosis: Misinterpretation of verb meaning.
+Minimal Correction: Replace ""connected"" with ""joined"".
+Must-Preserve: %s, egunjini
+Factual Detail: Capture the action of joining the room."	%s has joined the room	1	0.9709453582763672	TRUE
+Fihla indawo yohlu ekhoneni ngokuzenzakalela	Automatically hide panel into corner	Hide the list area in the corner automatically	0.028599617161713803	0.6786604523658752	"Error Diagnosis: Misinterpretation of isiZulu phrase.
+Minimal Correction: Revise to match the intended meaning.
+Must-Preserve: panel, corner
+Factual Detail: The panel is automatically hidden in the corner."	Hide the panel in the corner automatically	0.038481967	0.8372052907943726	TRUE
+Hlela umlayezo oqokiwe‚Ä¶	Edit Custom Messages‚Ä¶	Arrange the specified message‚Ä¶	0	0.6424561142921448	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use appropriate terminology
+Must-Preserve: Custom Messages
+Factual Detail: The translation should convey the idea of editing personalized messages."	Edit the customized message...	0.045649693	0.8489115238189697	TRUE
+Akha umqalisi omusha	Create a new folder '%s'	Build a new beginning	0.061884293332739315	0.5066707730293274	"Error Diagnosis: Misinterpretation of the source text.
+Minimal Correction: Change to match the original meaning.
+Must-Preserve: ""Create a new folder""
+Factual Detail: The action is creating a digital folder, not building or beginning something new."	Create a new folder	0.36787944117144233	0.8261463046073914	TRUE
+ayenziwe	not implemented	it is done	0	0.5895330905914307	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""not implemented""
+Must-Preserve: ayenziwe
+Factual Detail: The action has not been carried out."	not implemented	0.2213885886251307	0.9865178465843201	TRUE
+Ukushaya kohlelo	File Tools	The beating of the system	0	0.3325957655906677	"Error Diagnosis: Misinterpretation of context
+Minimal Correction: Use correct term
+Must-Preserve: File, Tools
+Factual Detail: Accurately convey the function of the software feature."	Using software	0	0.4930076003074646	FALSE
+ngaziwa	Unknown	I am known.	0	0.5310394167900085	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Change to 'Unknown'
+Must-Preserve: ngaziwa
+Factual Detail: Indicates lack of knowledge or familiarity."	Unknown	1	0.9877035617828369	TRUE
+Okwangaphandle	Extension(s)	Outside	0	0.4516849219799042	"Error Diagnosis: Misinterpretation
+Minimal Correction: Change to ""extension(s)""
+Must-Preserve: Okwangaphandle
+Factual Detail: Reflects the concept of something being outside or an extension."	Extensions	0	0.8759506344795227	TRUE
+Khipa	Eject	Lift	0	0.6971085667610168	"Error Diagnosis: Inaccurate meaning
+Minimal Correction: Change to ""eject""
+Must-Preserve: Khipa
+Factual Detail: The action of forcefully removing something."	Eject	1	0.9848389029502869	TRUE
+Asitholakalanga isifanekiso href phezu ko yelp:document	No href attribute found on yelp:document	We could not find the template link on Yelp: document	0.057445580856132834	0.6987374424934387	"Error Diagnosis: Incorrect interpretation of isiZulu phrase.
+Minimal Correction: Remove ""template link,"" use ""attribute.""
+Must-Preserve: Asitholakalanga, href, yelp:document
+Factual Detail: Correctly identify the absence of an href attribute."	We could not find the attribute href on Yelp:document	0.065270781	0.8620572090148926	TRUE
+Isikhombi esinephutha	Default	A reference with an error	0	0.4894811511039734	"Error Diagnosis: Incorrect reference translation
+Minimal Correction: Use correct translation
+Must-Preserve: Isikhombi, Default
+Factual Detail: The translation must accurately convey the meaning of ""default."""	A default setting	0	0.7486336827278137	TRUE
+Hlenga lelihele ngegama elihlukile	Save the current file with a different name	Change this name to a different one	0.078609008	0.6106938719749451	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change file name, not name
+Must-Preserve: Save the current file
+Factual Detail: The translation refers to saving a file, not changing a personal name."	Save this file with a different name	0.5578002860768766	0.90132606	TRUE
+Ihele akusi-isithombe.	These files are on a Video DVD.	It is not a picture.	0.032033495455712595	0.5124581456184387	"Error Diagnosis: Misinterpretation of source text.
+Minimal Correction: Translate as ""These are not pictures.""
+Must-Preserve: These files, Video DVD
+Factual Detail: The source text refers to files on a Video DVD, not just any picture."	These are not pictures.	0.032971711177508564	0.5261666774749756	FALSE
+AkukhoLanguagesLanguage	None	There are no languages.	0	0.5378511548042297	"Error Diagnosis: Overtranslation
+Minimal Correction: Use ""None"" instead of ""There are no languages.""
+Must-Preserve: None
+Factual Detail: The translation should convey the absence of languages."	None of the languages exist.	0.037593405	0.5323020219802856	FALSE
+Akuphumelelanga ukuguqula isithombe	Couldn't convert image	It was not possible to change the image.	0.02573285	0.695972204	"Error Diagnosis: Inaccurate interpretation
+Minimal Correction: Use more accurate wording
+Must-Preserve: Couldn't convert image
+Factual Detail: Conveys the inability to change the image."	Couldn't convert image	1	0.9712797999382019	TRUE
+Okujikelele	General	Circumference	0	0.6484932899475098	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use broader term
+Must-Preserve: Okujikelele
+Factual Detail: Emphasize the overall sense of protection or care."	Okujikelele	0	0.619026244	FALSE
+Priscilla Mahlangu	translator-credits	Priscilla Mahlangu	0	0.5420687794685364	"Error Diagnosis: Missing translation
+Minimal Correction: Add accurate translation
+Must-Preserve: Priscilla Mahlangu
+Factual Detail: Maintaining translator's name accuracy."	Priscilla Mahlangu	0	0.5420687794685364	FALSE
+Uhambisa ohele	Moving Files	You carry the burden.	0	0.48333171010017395	"Error Diagnosis: Misinterpretation 
+Minimal Correction: Change to ""Moving Files""
+Must-Preserve: Uhambisa ohele
+Factual Detail: Correctly convey the action of transferring files."	Moving Files	0.2213885886251307	0.965682328	TRUE
+Indawo yokushaya uma ubhala	Keyboard	Place to write when you are writing	0	0.40712079405784607	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use appropriate term
+Must-Preserve: Indawo yokushaya
+Factual Detail: Refers to a keyboard as a place to write."	Place to type when you are typing	0	0.3359338939189911	FALSE
+_Cishe	Right	About	0	0.6750520467758179	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""right""
+Must-Preserve: _Cishe
+Factual Detail: Represents the concept of being correct or right in isiZulu."	_Right	0	0.6920050382614136	FALSE
+Umazisi yohlu lwento yendawo yohlu	Panel object ID list	The identifier of the list of things in the local list	0.021598265052211615	0.47049733996391296	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use more accurate terminology
+Must-Preserve: Panel object, ID list
+Factual Detail: Emphasize the specific identification of objects in a list."	The identifier of the list of items in the specific location	0.021598265052211615	0.5019784569740295	FALSE
+_Nge	_About	_Nge	0	0.6737672090530396	"Error Diagnosis: Lack of context
+Minimal Correction: Add appropriate context
+Must-Preserve: _Nge
+Factual Detail: The translation should convey the meaning of ""about""."	_Nge	0	0.6737672090530396	FALSE
+Khetha imihume ebonakalayo kulesibaya	Mount the volume associated with this folder	Choose visible pathways in this kraal.	0.032359348	0.5081914067268372	"Error Diagnosis: Misinterpretation of context
+Minimal Correction: Adjust translation to match the correct context
+Must-Preserve: imihume, ebonakalayo, isibaya
+Factual Detail: The translation should refer to mounting a volume associated with a folder."	Select the visible volumes in this folder.	0.078825884	0.7557367086410522	TRUE
+Ngobungako	By Size	Regarding the extent	0	0.5216168761253357	"Error Diagnosis: Inaccurate interpretation
+Minimal Correction: Replace with ""By Size""
+Must-Preserve: Ngobungako
+Factual Detail: Reflects the concept of size rather than extent."	By Size	0.2213885886251307	0.9793790578842163	TRUE
+Izakhiwo	Properties	Structures	0	0.6993665099143982	"Error Diagnosis: Inaccurate translation
+Minimal Correction: Change from ""Structures"" to ""Properties""
+Must-Preserve: Izakhiwo
+Factual Detail: Conveys the correct meaning of the term ""Izakhiwo"" as ""Properties"""	Properties	1	0.9841420650482178	TRUE
+Ulwembu	Network	The cloud	0	0.6768069863319397	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use correct context
+Must-Preserve: Ulwembu
+Factual Detail: Refers to a network, not a cloud."	Network	1	0.9799266457557678	TRUE
+i-thelephathi-salut ayifakwanga	telepathy-salut not installed	the telephone greetings have not been added	0.032359348	0.6567202806472778	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Use correct term
+Must-Preserve: telepathy-salut
+Factual Detail: Installation status requirement"	The telepathy-salut feature was not installed.	0.0906806	0.8901450037956238	TRUE
+Hlanza ukhiphi miphumela	Debugging output	Clean up and remove the results	0	0.42176732420921326	"Error Diagnosis: Literal phrasing
+Minimal Correction: Translate as ""Debugging output""
+Must-Preserve: Hlanza, miphumela
+Factual Detail: Reflects the concept of debugging rather than general cleaning."	Debugging output	0.2213885886251307	0.9843925833702087	TRUE
+_Uhume olubonakalayo...	Visible _Columns...	The visible phenomenon...	0.061033220311973134	0.5747013688087463	"Error Diagnosis: Missing key element
+Minimal Correction: Add ""Columns""
+Must-Preserve: Visible
+Factual Detail: The translation should include the word ""Columns"" for accuracy."	The visible columns...	0.061033220311973134	0.7670477032661438	TRUE
+URL	URL				"Error Diagnosis: Inaccurate translation
+Minimal Correction: Use the reference translation
+Must-Preserve: None
+Factual Detail: Maintain accuracy and fidelity to the source text."	"Source (isiZulu):
+URL"	0.037593405	0.6715966463088989	FALSE
+Gcina isithombe	Save Image	Keep the picture	0	0.5860963463783264	"Error Diagnosis: Incorrect verb choice
+Minimal Correction: Change ""keep"" to ""save""
+Must-Preserve: Image
+Factual Detail: Correctly convey the action of preserving an image."	Save the picture	0.0724975	0.8508337736129761	TRUE
+Intshengisa yokubona ngale	Transparency indicator	A demonstration of seeing beyond	0	0.5450435876846313	"Error Diagnosis: Misinterpreted meaning
+Minimal Correction: Use accurate term
+Must-Preserve: Transparency indicator
+Factual Detail: Reflects the concept of monitoring visibility."	Monitor of visibility	0	0.6050953269004822	FALSE
+right-ring-mode-1	Left Ring Mode #%d	right-ring-mode-1	0	0.6623563170433044	"Error Diagnosis: Wrong direction
+Minimal Correction: Change ""right"" to ""left""
+Must-Preserve: Ring Mode
+Factual Detail: The correct direction is crucial for the user interface."	left-ring-mode-1	0	0.6238972544670105	FALSE
+_Phuma	_Quit	Come out	0	0.5678212642669678	"Error Diagnosis: Inaccurate synonym
+Minimal Correction: Replace with correct synonym
+Must-Preserve: Phuma
+Factual Detail: Express the idea of leaving or exiting"	Exit	0	0.6811976432800293	FALSE
+Hlanganisa...	_Add...	Combine...	0.067544361	0.6776052117347717	"Error Diagnosis: Incorrect action verb
+Minimal Correction: Replace with appropriate action verb
+Must-Preserve: Hlanganisa
+Factual Detail: Emphasize the action of bringing together."	Bring together...	0.0724975	0.6224249601364136	FALSE
+Vala lelihele	Close the current file	Close the door	0.15174681566793558	0.6919013261795044	"Error Diagnosis: Misinterpretation of context
+Minimal Correction: Change ""door"" to ""current file""
+Must-Preserve: Vala lelihele
+Factual Detail: The translation refers to closing a digital file, not a physical door."	Close this current file	0.18616487055295167	0.9002550840377808	TRUE
+Into engakwazi ukuqaliswa	Not a launchable item	Something that can be started	0	0.6077455282211304	"Error Diagnosis: Misinterpretation
+Minimal Correction: Revise to convey inability to be started
+Must-Preserve: Not, launchable item
+Factual Detail: Emphasize the impossibility of starting this item."	Something that cannot be started	0	0.6276803016662598	FALSE
+Iya kwisiqephu	Go to Chapter	It goes to the episode	0.045649693	0.690676749	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Change ""episode"" to ""Chapter""
+Must-Preserve: Iya kwisiqephu
+Factual Detail: The correct translation refers to moving to a different section or division."	It goes to the chapter	0.045649693	0.7676919102668762	TRUE
+Bonisa ukulingana kuhlu longabathinta	Show Balance in contact list	Show equality in the list of those affected.	0.033866335496821456	0.5576401948928833	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use more accurate translation
+Must-Preserve: Balance, contact list
+Factual Detail: Communication with contacts should be balanced."	Show equality in the contact list.	0.097442646	0.7401453852653503	TRUE
+Okula_ndelayo	_Next	What is being done	0	0.4664870798587799	"Error Diagnosis: Incorrect context interpretation
+Minimal Correction: Use appropriate context clue
+Must-Preserve: Okula_ndelayo
+Factual Detail: Signifies the concept of 'next' in isiZulu."	Next	0	0.849193811	TRUE
+Phoqa Ukuyeka	Force Quit	Stop Giving Up	0	0.5551051497459412	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use accurate translation
+Must-Preserve: Phoqa, Ukuyeka
+Factual Detail: Correctly convey the meaning of ""force quit"" in isiZulu."	Force Quit	0.2213885886251307	0.9786490797996521	TRUE
+uhlu lwetebhu lekhasi	page tab list	table of contents	0	0.5913087725639343	"Error Diagnosis: Misinterpretation of term meaning.
+Minimal Correction: Replace with accurate term.
+Must-Preserve: page tab list
+Factual Detail: Term refers to a list of tabbed pages, not just content."	page tab list	0.5757197301274735	0.9781025648117065	TRUE
+Okwangaphandle	Extension(s)	Outward Appearance	0	0.47838854789733887	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use the correct translation
+Must-Preserve: Okwangaphandle
+Factual Detail: Reflect the concept of extension(s) accurately."	Extension(s)	1	0.982880712	TRUE
+Bambezela maphakathi nezithombe (imizuzwana)	Time between photos in burst mode	Breathe in the middle of the pictures (moments)	0.023457495174891017	0.5107108950614929	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use burst mode as the context
+Must-Preserve: Time between photos, burst mode
+Factual Detail: Emphasize the continuous shooting feature in cameras."	Capture moments in between with burst mode	0.097442646	0.7634575963020325	TRUE
+Ukubukwa kwedokhumende	Document View	Government oversight	0	0.5226278305053711	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use accurate term
+Must-Preserve: Document View
+Factual Detail: Reflects the act of viewing documents."	Document viewing	0.067544361	0.8712372183799744	TRUE
+Sedric Motha	translator-credits	Sedric Motha	0	0.48233917355537415	"Error Diagnosis: Missing attribution
+Minimal Correction: Include translator-credits
+Must-Preserve: Sedric Motha
+Factual Detail: Acknowledging the translator's contribution."	Sedric Motha (Translated by)	0	0.5777269601821899	FALSE
+Isizinda	Background	Foundation	0	0.5293514132499695	"Error Diagnosis: Inaccurate meaning
+Minimal Correction: Change to ""background""
+Must-Preserve: Isizinda
+Factual Detail: Reflects the original context accurately."	Background	1	0.9842653274536133	TRUE
+_Ungenzi	_Undo	You are not doing it.	0	0.4272436201572418	"Error Diagnosis: Incorrect negation
+Minimal Correction: Change ""You are not doing it"" to ""Undo""
+Must-Preserve: _Ungenzi
+Factual Detail: Express the action of undoing."	"_Ungenzi
+Undo"	0	0.7189756631851196	TRUE
+Hl_ela	_Edit	To cry	0	0.4090368151664734	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Change translation to ""to watch""
+Must-Preserve: Hl_ela
+Factual Detail: The correct translation refers to watching, not crying."	Hl_ela	0	0.6818606853485107	FALSE
+isi-Vietnam	Vietnamese	isi-Vietnam	0	0.6036682724952698	"Error Diagnosis: Incorrect language name
+Minimal Correction: Use correct language name
+Must-Preserve: Vietnamese
+Factual Detail: Reflects the language spoken in Vietnam."	Vietnamese	1	0.9876918792724609	TRUE
+Izisefo	Filter	The spoons	0	0.4292105436325073	"Error Diagnosis: Incorrect translation
+Minimal Correction: Replace with correct translation
+Must-Preserve: Filter
+Factual Detail: The word refers to a specific type of tool, not spoons."	Medical instruments	0	0.5675745010375977	FALSE
+Okuthatha ukushaya	Picker dialog	What it takes to hit	0	0.33300289511680603	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use appropriate terminology
+Must-Preserve: Picker dialog
+Factual Detail: Specific technical term needed."	Taking a swing	0	0.39206692576408386	FALSE
+Ukuguqulwa kwewidget ebizela emuva	Conversion to widget callback	The transformation of the widget that was pulling back	0.02573285	0.5816572308540344	"Error Diagnosis: Misinterpretation of isiZulu term
+Minimal Correction: Use correct translation of ""ebizela emuva""
+Must-Preserve: widget, callback
+Factual Detail: Maintain the concept of transformation and callback in the corrected translation."	The transformation of the widget that calls back	0.028599617161713803	0.6639630198478699	FALSE
+Isikhala esikhululekile:no readno access	Free space:	Free space: no read no access	0.19308506685901675	0.5886184573173523	"Error Diagnosis: Missing information
+Minimal Correction: Remove ""no read no access""
+Must-Preserve: Free space
+Factual Detail: The translation should accurately convey the concept of free space."	Free space: no access	0.29950981436291046	0.8247761726379395	TRUE
+Bonisa ongabathinta abangaphandle kolayini	Show offline contacts	Show whom to contact outside of the line.	0.02573285	0.5582878589630127	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use more idiomatic expression
+Must-Preserve: offline contacts
+Factual Detail: Refers to contacts not accessible online."	Show who to contact for offline assistance.	0.034010868	0.6670306324958801	FALSE
+Igamaopen recent file	Name	Name open recent file	0.061033220311973134	0.5012494921684265	"Error Diagnosis: Misunderstood context
+Minimal Correction: Remove unnecessary words
+Must-Preserve: Igama, Name
+Factual Detail: Igama means ""Name"" in isiZulu."	Name open recent file	0.061033220311973134	0.5012494921684265	FALSE
+_Ukutholakala	Accessibility keyboard plugin	Availability	0	0.6227706074714661	"Error Diagnosis: Incorrect context
+Minimal Correction: Use accurate context
+Must-Preserve: Accessibility, keyboard plugin
+Factual Detail: Specificity of the type of availability, not just general availability."	Accessibility	0.1353352832366127	0.7867022752761841	TRUE
+Fiphele	Set	Fiphele	0	0.6550513505935669	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Change translation to ""set""
+Must-Preserve: Fiphele
+Factual Detail: The translation should accurately convey the meaning of the isiZulu word."	Set	1	0.9828046560287476	TRUE
+_Faka phakathi amafolda amancane	_Include subfolders	Insert the small folders	0	0.6352965831756592	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use more accurate term
+Must-Preserve: amafolda amancane
+Factual Detail: Subfolders are implied, not necessarily small folders."	Insert the subfolders	0.0724975	0.8017207384109497	TRUE
+Isi_thombe esidlule	_Previous Image	The previous picture	0	0.6700249910354614	"Error Diagnosis: Incorrect capitalization and wording.
+Minimal Correction: Use correct capitalization and wording.
+Must-Preserve: Previous Image
+Factual Detail: Maintain reference to an image."	The image has passed	0	0.5213063955307007	FALSE
+Isizinda	Background	Foundation	0	0.5293514132499695	"Error Diagnosis: Inaccurate word choice
+Minimal Correction: Change ""Foundation"" to ""Background""
+Must-Preserve: Isizinda
+Factual Detail: Reflects the contextual meaning of ""Isizinda"" as background rather than foundation."	Background	1	0.9842653274536133	TRUE
+Izilimi zokuhlola ukupeletwa	Spell checking languages	Languages for evaluating performance	0	0.5960079431533813	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use correct term
+Must-Preserve: Spell checking
+Factual Detail: Accuracy in translation process."	Languages for performance evaluation	0	0.6169789433479309	FALSE
+Ukuthutha okuxegayo	Loose Routing	Heavy transport	0	0.5243563055992126	"Error Diagnosis: Inaccurate meaning
+Minimal Correction: Change to ""Loose Routing""
+Must-Preserve: Ukuthutha, okuxegayo
+Factual Detail: Reflects the concept of flexible or non-fixed routing."	Flexible Routing	0.067544361	0.871682882	TRUE
+i-GDM iqala futhu ...	Restarting computer...	GDM starts and also ...	0.045649693	0.4855014681816101	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Restarting computer
+Must-Preserve: i-GDM iqala futhu
+Factual Detail: Captures the action of restarting the computer accurately."	i-GDM restarts the computer ...	0.12121093525642128	0.6628642678260803	FALSE
+Ayifani	Does not match	It is not the same.	0.037593405	0.6232336759567261	"Error Diagnosis: Incorrect translation of isiZulu word.
+Minimal Correction: Use correct translation of isiZulu word.
+Must-Preserve: Ayifani
+Factual Detail: Expresses the concept of things being different/not the same."	Ayifani	0	0.5062875747680664	FALSE
+Ibizo-lokusetshenziswa	The username	Usage Name	0	0.6315105557441711	"Error Diagnosis: Incorrect term choice
+Minimal Correction: Change ""Usage Name"" to ""The username""
+Must-Preserve: Ibizo-lokusetshenziswa
+Factual Detail: Capturing the specific term for ""username"" in isiZulu."	The username	0.2213885886251307	0.9818131923675537	TRUE
+Fihla indawo yohlu ekhoneni ngokuzenzakalela	Automatically hide panel into corner	Hide the list area in the corner automatically	0.028599617161713803	0.6786604523658752	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use more natural wording
+Must-Preserve: Automatically hide panel
+Factual Detail: Express the action of hiding a panel into a corner."	Automatically hide the panel in the corner	0.097442646	0.868454635	TRUE
+Uhlobo lenhlanganisi %s oyithandayo ayifakiwe kulomshini. Bewufuna ukwenza %s iphutha lenhlanganiso yakho nakusasa?	Do you wish to make %s the default for future sessions?	The type of configuration %s you prefer is not included in this machine. Would you like to make %s your configuration error tomorrow?	0.09615094	0.5616297721862793	"Error Diagnosis: Incorrect wording
+Minimal Correction: Use a more accurate translation
+Must-Preserve: default, future sessions
+Factual Detail: Specify the action for future use."	The preferred type of configuration %s is not available on this machine. Would you like to save %s as your configuration for future use?	0.035463496	0.6477537155151367	FALSE
+%s: Ngakhoni ukufunda Amagama Esiqiniseko	%s: Could not read Authentication Names	I could not learn the Words of Truth	0.028599617161713803	0.5685900449752808	"Error Diagnosis: Misinterpreted context
+Minimal Correction: Use correct terminology
+Must-Preserve: Authentication Names
+Factual Detail: Convey the concept of verifying or confirming names."	I struggled to learn the Names of Confirmation	0.028599617161713803	0.6447073817253113	FALSE
+Kuxhunyanisiwe noma kuthembiwe	Paired or trusted	It has been agreed or promised.	0.032359348	0.5543950200080872	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Replace with ""paired or trusted""
+Must-Preserve: Kuxhunyanisiwe
+Factual Detail: Conveys the idea of being paired or trusted."	Paired or trusted	0.5757197301274735	0.9745147228240967	TRUE
+Priscilla Mahlangu Launchpad Contributions: Priscilla Mahlangu https://launchpad.net/~priny	translator-credits	Priscilla Mahlangu Launchpad Contributions: Priscilla Mahlangu https://launchpad.net/~priny	0	0.46189191937446594	"Error Diagnosis: Incorrect attribution
+Minimal Correction: Replace with ""translator-credits""
+Must-Preserve: Priscilla Mahlangu
+Factual Detail: Acknowledging the translator's contributions."	Translator Credits: Priscilla Mahlangu Launchpad Contributions: Priscilla Mahlangu https://launchpad.net/~priny	0	0.57590729	FALSE
+ayenziwe	not implemented	it is done	0	0.5895330905914307	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Correct to ""not implemented""
+Must-Preserve: ayenziwe
+Factual Detail: The action has not been carried out."	not implemented	0.2213885886251307	0.9865178465843201	TRUE
+_Umsebenzi womkhawulo ekugcineni:	_Work interval lasts:	The task of the limit at the end:	0.02573285	0.47859400510787964	"Error Diagnosis: Incorrect phrasing
+Minimal Correction: Change to accurate wording
+Must-Preserve: Work interval
+Factual Detail: Express the duration of the task."	The task of the final deadline: a continuous work interval.	0.023837651	0.5627169609069824	FALSE
+Lwizela _Phandle	Zoom _Out	Lwizela _Phandle	0	0.5767505168914795	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use correct equivalent term
+Must-Preserve: Lwizela, Phandle
+Factual Detail: Equivalent term for ""Zoom Out"" needed."	Zoom Out	0.067544361	0.9203688502311707	TRUE
+Cima okuqukethwe kohlu loka-Hamba noMuva/Phambili-hlu	Clear contents of Go menu and Back/Forward lists	Cima the content of the Hamba noMuva/Phambili list	0.028599617161713803	0.4251359701156616	"Error Diagnosis: Inaccurate content summary
+Minimal Correction: Clarify menu items Go, Back, and Forward
+Must-Preserve: Go menu, Back/Forward lists
+Factual Detail: Reflects navigation options in user interface."	Clear the selected item from the Go/Back-Forward menu.	0.030601688609851067	0.7125182151794434	TRUE
+Khetha imihume ebonakalayo kulesibaya	Mount the volume associated with this folder	Choose the visible paths in this kraal.	0.034010868	0.525264323	"Error Diagnosis: Misinterpretation of context
+Minimal Correction: Use correct volume-related terminology
+Must-Preserve: volume, associated
+Factual Detail: The translation should convey a relationship between the volume and the folder."	Choose the visible folders in this directory.	0.034010868	0.6741061806678772	FALSE
+Uhlu CDE	_Edit Menus	CDE List	0	0.4516279995441437	"Error Diagnosis: Literal Phrasing
+Minimal Correction: Use appropriate translation for ""Edit Menus""
+Must-Preserve: Uhlu CDE
+Factual Detail: The translation should accurately reflect the meaning of ""Edit Menus."""	Edit Menus	0.067544361	0.9417910575866699	TRUE
+Priscilla Mahlangu	translator-credits	Priscilla Mahlangu	0	0.5420687794685364	"Error Diagnosis: Missing translation
+Minimal Correction: Add accurate translation
+Must-Preserve: Priscilla Mahlangu
+Factual Detail: Properly credit the translator."	Priscilla Mahlangu	0	0.5420687794685364	FALSE
+Ihlulekile ukunezela umkhiqizo owenezelwayo	Failed to load module	Failed to add the additional product	0.097177166	0.6023267507553101	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Replace with ""Failed to load""
+Must-Preserve: umkhiqizo, owenezelwayo
+Factual Detail: Capture the idea of not being able to access a specific product."	Failed to load the specified product	0.23376641384792204	0.8318850994110107	TRUE
+Isibaya sasekhaya	Open Folder	The home of the cattle kraal	0	0.3832746744155884	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use correct translation
+Must-Preserve: Isibaya
+Factual Detail: Refers to a specific type of folder"	Homestead folder	0	0.5007212162017822	FALSE
+Impande kuphela efuna ukusebenzisa igdm	Only root wants to run GDM	Only the roots want to use the gdm	0.034010868	0.6736657023429871	"Error Diagnosis: Incorrect subject-verb agreement
+Minimal Correction: Use singular form of verb
+Must-Preserve: Only, root, GDM
+Factual Detail: Singular form of verb matches subject ""root"" in the isiZulu sentence."	Only the root wants to use the GDM	0.18756826382863573	0.8760960698127747	TRUE
+Bonke ohele abasebenzisekayo kulesibaya kuzovela kuhlu lwemibhalo.	All executable files in this folder will appear in the Scripts menu.	All the users who are applicable in this area will appear on the list of documents.	0.056003749	0.43290141224861145	"Error Diagnosis: Incorrect context
+Minimal Correction: Revise to match the correct context
+Must-Preserve: executable files, folder
+Factual Detail: The translation should refer to executable files in a folder."	All executable files used in this area will be displayed in the document folder.	0.13484759408473254	0.7449054718017578	TRUE
+Lwizela _Phandle	Zoom _Out	Lwizela _Phandle	0	0.5767505168914795	"Error Diagnosis: Misinterpretation
+Minimal Correction: Replace with accurate translation
+Must-Preserve: Lwizela, Phandle
+Factual Detail: The word ""Zoom"" and the phrase ""Out"" should be included in the corrected translation."	Zoom Out	0.067544361	0.9203688502311707	TRUE
+Ngokwangaphandle	By extension	From the outside	0	0.5881794691085815	"Error Diagnosis: Incorrect extension of meaning
+Minimal Correction: Use a more contextually appropriate extension
+Must-Preserve: Ngokwangaphandle
+Factual Detail: The translation should reflect an extension of meaning, not a literal translation."	From an external perspective	0	0.5702589750289917	FALSE
+_Faka futhi	_Reload	Put again	0	0.5734635	"Error Diagnosis: Inaccurate meaning
+Minimal Correction: Replace with correct translation
+Must-Preserve: Faka, Reload
+Factual Detail: Expresses the action of loading something again."	Reload	0	0.8536592721939087	TRUE
+_Abangathintwa abavinjiwe	_Blocked Contacts	Those who are untouchable are prohibited.	0	0.4927182197570801	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use proper context
+Must-Preserve: Abangathintwa, abavinjiwe
+Factual Detail: Refers to blocked contacts, not untouchable individuals."	Blocked contacts cannot be reached.	0	0.7316664457321167	TRUE
+Hlanza ukhiphi miphumela	Debugging output	Clean out the results	0	0.46637827157974243	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use more appropriate technical terminology
+Must-Preserve: miphumela
+Factual Detail: The translation should convey the concept of debugging output."	Debug where the output is coming from	0.032359348	0.6341421604156494	FALSE
+Buyisela omunye nomunye umboniso-sithombe okhethiwe kubungako bawo bemvelo	Restore each selected icon to its original size	Return another selected image-display based on its natural qualities.	0.027895820162122397	0.5574957132339478	"Error Diagnosis: Misinterpretation of ""restore"" and ""icon"".
+Minimal Correction: Replace with ""return"" and ""image-display"".
+Must-Preserve: selected, original size
+Factual Detail: The translation must convey the idea of returning an image-display to its original size."	Return each selected image-display to its original size as chosen by the custodians of nature.	0.18207052811092134	0.6463996767997742	FALSE
+Into engakwazi ukuqaliswa	Not a launchable item	Something that can be initiated	0	0.6401418447494507	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use accurate translation
+Must-Preserve: Not a launchable item
+Factual Detail: Emphasizes inability to be initiated."	Something that cannot be initiated	0	0.6833622455596924	FALSE
+Umamukeni	To	Umamukeni	0	0.6538891196250916	"Error Diagnosis: Incorrect translation
+Minimal Correction: Replace with correct translation
+Must-Preserve: Umamukeni
+Factual Detail: The translation should accurately convey the meaning of ""Umamukeni"" as ""To."""	To	1	0.969162643	TRUE
+Inkimba sikhati	Clock	The time is now	0	0.5072821974754333	"Error Diagnosis: Misinterpretation
+Minimal Correction: Replace with 'clock'
+Must-Preserve: Inkimba
+Factual Detail: Refers to a physical time-keeping device."	The clock strikes	0	0.6990436315536499	FALSE
+Ungenekhone ukukopela izinhlamvu kudoti.	You cannot move the volume "%s" to the trash.	You cannot steal letters from the trash.	0.13943081391348622	0.5448575615882874	"Error Diagnosis: Misinterpretation of source phrase.
+Minimal Correction: Replace with accurate translation.
+Must-Preserve: volume, to the trash
+Factual Detail: The action involves moving a specific volume to the trash."	You should not delete files in the trash.	0.094199469	0.5841407775878906	FALSE
+Umbala wokubona ngale	Transparency color	The color of vision beyond	0.045649693	0.5560883283615112	"Error Diagnosis: Misinterpreted meaning
+Minimal Correction: Change to ""Transparency color""
+Must-Preserve: Umbala, wokubona
+Factual Detail: Reflects the concept of transparency in the original isiZulu phrase."	Transparency color	0.2213885886251307	0.9778884053230286	TRUE
+Omayelana abaqukethe indabuku Yendawo yohlu	Specify file containing saved configuration	Regarding those who comprise the list of the area‚Äôs book.	0	0.40007641911506653	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Specify saved configuration
+Must-Preserve: file, saved
+Factual Detail: Emphasize the aspect of configuration being saved."	Those who have saved the configuration of the Area Book.	0.02568481	0.5408576130867004	FALSE
+Hambisa i-evince ngendlela yombukiso	Run evince in presentation mode	Move the evidence in the manner of a demonstration	0.02573285	0.5318379402160645	"Error Diagnosis: Misinterpreted function of 'hambisa'
+Minimal Correction: Use correct command for 'run' instead of 'move'
+Must-Preserve: i-evince
+Factual Detail: Presentation mode for software program."	Run the evince in demonstration mode	0.11556377708900069	0.7777607440948486	TRUE
+AkukhoLanguagesLanguage	None	There are no languages.	0	0.5378511548042297	"Error Diagnosis: Incorrect negation
+Minimal Correction: Use ""None"" instead of ""There are no""
+Must-Preserve: None
+Factual Detail: The translation should convey the absence of languages."	NoneLanguagesLanguage	0	0.5816190242767334	FALSE
+D_ala futhi amafolda	Re-crea_te folders	Go back and fold the folders	0.037593405	0.6170927882194519	"Error Diagnosis: Misinterpretation of ""ala"" as ""go back"" instead of ""re-create""
+Minimal Correction: Use ""re-create"" instead of ""go back""
+Must-Preserve: D_ala, amafolda
+Factual Detail: The action involves recreating folders, not simply folding them again."	Re-create the folders	0.0724975	0.880666196	TRUE
+Uma kuyiqiniso, tshengisa usuku lwenyanga esihlokweni somsebenzisi uma inkomba iphezu kwenkomba sikhathi.	If true, show date in a tooltip when the pointer is over the clock.	If it's true, display the date of the month in the user's header when the indicator is above the time indicator.	0.042981015257050184	0.6430273652076721	"Error Diagnosis: Misinterpreted context
+Minimal Correction: Update to reflect tooltip display
+Must-Preserve: ""If true"", ""show date"", ""tooltip""
+Factual Detail: Indicate the action of showing the date when hovering over the clock."	If it's true, display the date in the user's tooltip when hovering over the time indicator.	0.064192001	0.7648736834526062	TRUE
+_Ima	_Stop	Image	0	0.5399280190467834	"Error Diagnosis: Mistranslation
+Minimal Correction: Replace with correct translation
+Must-Preserve: Image
+Factual Detail: The correct translation is ""Stop"" in English."	Stop	0	0.8960415720939636	TRUE
+_Thwebula isithombe	_Take a Photo	Download the image	0	0.6348478198051453	"Error Diagnosis: Incorrect action verb.
+Minimal Correction: Replace with ""Take a Photo.""
+Must-Preserve: Thwebula isithombe
+Factual Detail: The action of capturing an image."	Take a photo	0.0724975	0.8720888495445251	TRUE
+Incwadi yezinsuku zonyaka	Calendar	Book of the Days of the Year	0	0.46572989225387573	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use broader term
+Must-Preserve: Incwadi yezinsuku zonyaka
+Factual Detail: Refers to a collection of dates and events."	Book of the Days of the Year	0	0.46572989225387573	FALSE
+Kwesokudla	Right	To the right	0	0.695006788	"Error Diagnosis: Unnecessary article
+Minimal Correction: Remove ""to the""
+Must-Preserve: Right
+Factual Detail: The translation should be concise and accurate."	Right	1	0.9852145910263062	TRUE
+_Imniningwane yendikima	Show details	Details of the composition	0	0.6238337159156799	"Error Diagnosis: Inaccurate interpretation
+Minimal Correction: Adjust wording for accuracy
+Must-Preserve: Details, Show
+Factual Detail: The translation should communicate the action of displaying information."	Details of the exhibit	0	0.6555421948432922	FALSE
+Dlala umsindo uma siphuma	Play a sound when we log out	Make noise when we go out	0.09103421	0.5952721238136292	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use appropriate terminology
+Must-Preserve: uma, siphuma
+Factual Detail: Convey the idea of logging out."	Play music when we log out	0.4548019047027907	0.9112628698348999	TRUE
+%s: Ngakhoni ukufunda isibonakaliso senhlanganiso	%s: Could not read Session ID	I was unable to read the organization's sign	0.02573285	0.5877813100814819	"Error Diagnosis: Misinterpretation of ""isibonakaliso"" as ""sign""
+Minimal Correction: Replace with ""Session ID""
+Must-Preserve: ""isibonakaliso""
+Factual Detail: Express inability to read, not a physical sign."	I was unable to understand the session ID of the organization	0.021598265052211615	0.7152117490768433	TRUE
+_Iphutha lokuhlelwa kolwiza:	_Default zoom level:	Error in the scheduling of the event:	0.028599617161713803	0.45345330238342285	"Error Diagnosis: Mistranslation
+Minimal Correction: Correct translation
+Must-Preserve: Default zoom level
+Factual Detail: Accurate representation of the specific zoom setting."	Error in setting up the event:	0.032359348	0.5247971415519714	FALSE
+Umumo wesuku lwenyanga yehele. Amanani engenzeka "ndaweni", "iso" no "ngemthethweni".	The format of file dates. Possible values are "locale", "iso", and "informal".	The state of the day of the new moon. Possible meanings include "place," "eye," and "officially."	0.045112913369222594	0.5117853879928589	"Error Diagnosis: Misinterpretation of source terms.
+Minimal Correction: Replace with correct terms.
+Must-Preserve: format, file dates, Possible values
+Factual Detail: Reflects the options for file date formats."	The essence of the new moon day. Possible meanings include "place," "eye," and "by law."	0.046752913	0.5137616395950317	FALSE
+Guquguqula ukuthunyelwa kwemisindo	Toggle audio transmission	Transform the transmission of sounds	0.045649693	0.6231118440628052	"Error Diagnosis: Misinterpretation of the concept
+Minimal Correction: Use appropriate terminology
+Must-Preserve: Toggle audio transmission
+Factual Detail: The concept of switching or alternating the sending of audio signals."	Toggle audio transmission	0.5757197301274735	0.9782098531723022	TRUE
+Launchpad Contributions: Xolani1990 https://launchpad.net/~beno-1990	translator-credits	Launchpad Contributions: Xolani1990 https://launchpad.net/~beno-1990	0	0.49561062455177307	"Error Diagnosis: Incorrect label translation
+Minimal Correction: Translate as ""translator-credits""
+Must-Preserve: Xolani1990
+Factual Detail: Reflects the contributor's name on Launchpad."	Translator Credits: Xolani1990 https://launchpad.net/~beno-1990	0	0.5669218301773071	FALSE
+_Cishe	Right	Almost	0	0.6230419874191284	"Error Diagnosis: Inaccurate meaning
+Minimal Correction: Change to ""right""
+Must-Preserve: Cishe
+Factual Detail: Expresses the idea of being close or near, but not quite there."	Right	1	0.9864690899848938	TRUE
+Ibha ye_simo	_Statusbar	The state of affairs	0	0.47999343276023865	"Error Diagnosis: Loss of specificity
+Minimal Correction: Use correct term
+Must-Preserve: Statusbar
+Factual Detail: Reflects software element, not general state."	Statusbar	0	0.8764166235923767	TRUE
+Ngakhoni ukukhipha umthonga	Unable to eject media	I couldn't remove the stain.	0	0.5110159516334534	"Error Diagnosis: Misinterpretation of ""umthonga""
+Minimal Correction: Replace with ""media""
+Must-Preserve: ""Ngakhoni"", ""umthonga""
+Factual Detail: Express inability to remove media."	I couldn't remove the media.	0.032359348	0.684039295	FALSE
+Izakhiwo	Properties	Structures	0	0.6993665099143982	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Change to ""properties""
+Must-Preserve: Izakhiwo
+Factual Detail: The translation should reflect the concept of characteristics or attributes."	Properties	1	0.9841420650482178	TRUE
+Ayifani	Does not match	It is not the same.	0.037593405	0.6232336759567261	"Error Diagnosis: Inaccurate interpretation
+Minimal Correction: Use ""It is not the same"" instead.
+Must-Preserve: Ayifani
+Factual Detail: Convey the meaning of difference or dissimilarity."	It is not the same.	0.037593405	0.6232336759567261	FALSE
+Gcina imiboniso-sithombe ihlelwe ngokobungakanani kumdenda	Keep icons sorted by trash time in rows	Keep the presentations arranged according to size in the order.	0.02568481	0.5508487224578857	"Error Diagnosis: Misinterpretation of key terms
+Minimal Correction: Use correct terms
+Must-Preserve: icons, sorted, trash time
+Factual Detail: The icons need to be organized based on when they were trashed."	Sort the image presentations based on when they were trashed.	0	0.589535117	FALSE
+I-akhawunti ayixhunyiwe	Account disconnected	The account is not linked	0	0.6968764662742615	"Error Diagnosis: Incorrect wording
+Minimal Correction: Change ""linked"" to ""disconnected""
+Must-Preserve: ""Account""
+Factual Detail: The account is not connected, implying a disconnection."	The account is disconnected	0.061033220311973134	0.9248971343040466	TRUE
+Bheka ukuthi umbhalo-gama okahle nohlelo lombambisi wakho lukahle.	Check that the spelling is correct and that your proxy settings are correct.	Check that your title and your summary plan are appropriate.	0.061848287	0.5529358386993408	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Use correct meaning
+Must-Preserve: spelling, proxy settings, correct
+Factual Detail: The translation should focus on checking the spelling and proxy settings for accuracy."	Check that your title and the name of your program are correct.	0.13693693548745756	0.6724004745483398	FALSE
+Isibonisi %s sihlangabezane nephutha masiqala.	The icon view encountered an error.	The display %s encountered an error as we started.	0.13190955568171472	0.6545860171318054	"Error Diagnosis: Incorrect object translation
+Minimal Correction: Replace ""display"" with ""icon view""
+Must-Preserve: encountered an error
+Factual Detail: The translation should accurately convey that an error occurred with the icon view."	The icon view %s encountered an error as we started.	0.18499944101432772	0.7375974655151367	TRUE
+Kumisiwe	Stopped	It has been decided.	0	0.5267087817192078	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Replace with ""stopped""
+Must-Preserve: Kumisiwe
+Factual Detail: The action is not decided but rather stopped."	Stopped	1	0.9879298210144043	TRUE
+Incwadi yezinsuku zonyaka	Calendar	The Book of Days of the Year	0	0.4780372679233551	"Error Diagnosis: Misinterpretation
+Minimal Correction: Replace with ""Calendar""
+Must-Preserve: Incwadi yezinsuku zonyaka
+Factual Detail: Refers to a traditional calendar in isiZulu culture."	Calendar of the Year	0.061033220311973134	0.7187394499778748	TRUE
+Ukukhanya phezulu	Keyboard Brightness Up	The light above	0	0.6101109385490417	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use contextually appropriate translation
+Must-Preserve: Ukukhanya, phezulu
+Factual Detail: Indicates increasing brightness on a keyboard."	Rising brightness	0	0.7366644144058228	TRUE
+Ayikwazi ukudlulisa amadokhumende kule element yobuso bekhomphyutha	Can't pass documents to this desktop element	It is not possible to transfer documents to this face element of the computer.	0.090178021	0.6826160550117493	"Error Diagnosis: Inaccurate interpretation
+Minimal Correction: Change ""face element"" to ""desktop element""
+Must-Preserve: transfer documents, desktop element
+Factual Detail: Must convey the inability to pass documents to a specific desktop element."	It is not possible to transfer documents to this desktop element of the computer.	0.2460137257692754	0.7554599046707153	TRUE
+_Faka phakathi amafolda amancane	_Include subfolders	Insert the small folders	0	0.6352965831756592	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use more contextually accurate term
+Must-Preserve: amafolda amancane
+Factual Detail: Subfolders are being referred to, not small folders."	Insert the small subfolders	0.061033220311973134	0.7621410489082336	TRUE
+Hlunga _izibaya ngaphambi kohele	Sort _folders before files	Clean the kraals before the rain.	0.032359348	0.4087707996368408	"Error Diagnosis: Misinterpretation of metaphor
+Minimal Correction: Replace with metaphorical meaning
+Must-Preserve: _folders, before files
+Factual Detail: Emphasize the concept of organizing files digitally."	Organize folders before files.	0.12121093525642128	0.7899143695831299	TRUE
+Ukuhanjiswa kwesingoso	Orientation	Delivery of the soup	0	0.46319833397865295	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""Orientation""
+Must-Preserve: Ukuhanjiswa, isingoso
+Factual Detail: Reflecting the concept of orientation rather than delivery."	Orientation of the compass	0.061033220311973134	0.5400159955024719	FALSE
+Ukuphawula okuhleliwe	Comments string	Well-structured commentary	0	0.6147979497909546	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use correct translation
+Must-Preserve: Comments
+Factual Detail: Maintaining the meaning of the original isiZulu phrase."	Well-organized presentation	0	0.540008008	FALSE
+ukhetho lwamanje	Move the current selection to the desktop	the current election	0.055824533747465994	0.5391901731491089	"Error Diagnosis: Misinterpretation of context
+Minimal Correction: Use correct context for ""selection""
+Must-Preserve: current, desktop
+Factual Detail: Moving the selection to the desktop is the correct action."	current selection	0.018172682	0.6428578495979309	FALSE
+(Inani th copy)	(	(Price th copy)	0.045649693	0.5588367581367493	"Error Diagnosis: Misinterpretation of isiZulu word.
+Minimal Correction: Replace ""Price"" with correct isiZulu term ""Inani.""
+Must-Preserve: Inani th copy
+Factual Detail: Reflects the correct term for ""th copy"" in isiZulu."	Number th copy	0	0.46470555663108826	FALSE
+Isizinda	Background	Foundation	0	0.5293514132499695	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Replace with ""Background""
+Must-Preserve: Isizinda
+Factual Detail: Captures the contextual meaning of the original isiZulu term."	Background	1	0.9842653274536133	TRUE
+Inkulisa _buqamama	Zoom _Out	Inkulisa _buqamama	0	0.6151547431945801	"Error Diagnosis: Literal phrasing
+Minimal Correction: Translate ""inkulisa"" as ""zoom""
+Must-Preserve: _buqamama
+Factual Detail: The translation should convey the meaning of ""zoom out."""	Zoom out _buqamama	0.0724975	0.8015475273132324	TRUE
+ngaphandle kolayini	offline	outside the line	0	0.5956751704216003	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use correct context
+Must-Preserve: ngaphandle, kolayini
+Factual Detail: Refers to being offline, not simply outside a line."	offline	1	0.9863620400428772	TRUE
+Priscilla Mahlangu	translator-credits	Priscilla Mahlangu	0	0.5420687794685364	"Error Diagnosis: Lack of specific information.
+Minimal Correction: Include translator's name.
+Must-Preserve: Priscilla Mahlangu
+Factual Detail: Acknowledging the translator's contribution."	Priscilla Mahlangu (Translated by: [Translator's Name])	0	0.5621740818023682	FALSE
+Kwesokudla	Right	To the right	0	0.695006788	"Error Diagnosis: Unnecessary preposition
+Minimal Correction: Remove ""to""
+Must-Preserve: Right
+Factual Detail: The direction ""right"" is the key meaning."	Right	1	0.9852145910263062	TRUE
+isi-Bhalthikhi	Baltic	isi-Bhalthikhi	0	0.6273161172866821	"Error Diagnosis: Exact match error
+Minimal Correction: Translate as ""Baltic""
+Must-Preserve: None
+Factual Detail: The translation should reflect the correct geographic region."	Baltic	1	0.9844714403152466	TRUE
+I-Empathy yabelwa ethembeni lokuthi izoba usizo, kepha ngaphandle kwesiqiniseko; nangaphandle kwesiqiniseko esiqondiwe sokuthengisekayo noma ukulungela injongo ethile. Bheka i-GNU layisensi yomphakathi ejwayelekile ukuze uthole eminye imininingwane.	Empathy is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.	Empathy was allocated with the hope that it would be helpful, but without certainty; and without a clear understanding of its marketability or suitability for a specific purpose. Refer to the GNU General Public License for more information.	0.22870854889655082	0.684890628	"Error Diagnosis: Inaccurate warranty terms
+Minimal Correction: Replace ""certainty"" with ""warranty""
+Must-Preserve: ""useful"", ""WITHOUT ANY WARRANTY""
+Factual Detail: Clarify lack of warranty in distribution."	Empathy was allocated with the hope that it would be helpful, but without any warranty; and without a clear understanding of its marketability or suitability for a specific purpose. Refer to the GNU General Public License for more information.	0.2258043389079604	0.7230714559555054	TRUE
+Ngumthubi	Orange	It is a farmer.	0	0.3550543487071991	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Replace with correct term
+Must-Preserve: Ngumthubi
+Factual Detail: The word should be translated as ""orange"""	It is an orange.	0	0.4247300326824188	FALSE
+Ngakhoni Ukubuyisela Ihele	Unable to start %s	I was unable to return the favor.	0.028599617161713803	0.5727831125259399	"Error Diagnosis: Inaccurate interpretation
+Minimal Correction: Change to ""Unable to start %s""
+Must-Preserve: Ihele
+Factual Detail: Express inability to start something."	Unable to start Ihele	0.33602782883534926	0.7853198051452637	TRUE
+_Unga khombisi lomyalezo futhi	Don't show any warnings again	_You cannot show this message and_	0.032359348	0.5079903602600098	"Error Diagnosis: Incorrect phrasing
+Minimal Correction: Change wording to match the intended meaning
+Must-Preserve: Don't show, any warnings
+Factual Detail: Emphasize the need to avoid displaying warnings."	Do not display this warning message.	0.032359348	0.7394669651985168	TRUE
+Ukukhipha akwenziwanga	Extraction not performed	Releasing has not been done.	0.037593405	0.5254530906677246	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use more appropriate term
+Must-Preserve: Extraction
+Factual Detail: Conveying the action of removing something"	Extraction was not carried out.	0.044706344276931285	0.8436772227287292	TRUE
+Priscilla Mahlangu	translator-credits	Priscilla Mahlangu	0	0.5420687794685364	"Error Diagnosis: Missing translator credits
+Minimal Correction: Add translator credits
+Must-Preserve: Priscilla Mahlangu
+Factual Detail: Acknowledgment of the translator's contribution."	Priscilla Mahlangu (Translated by [Translator's Name])	0	0.5653139352798462	FALSE
+Uma indawoyohlu icishiwe, indawo yohlu ne its hlelo kuyalahleka. Cisha lendawo yohlu?	When a drawer is deleted, the drawer and its settings are lost.	If the list area is deleted, the list and its configuration will be lost. Delete this list area?	0.1536220823324551	0.6264249086380005	"Error Diagnosis: Inaccurate meaning
+Minimal Correction: Replace ""list area"" with ""drawer""
+Must-Preserve: drawer, settings
+Factual Detail: The context refers to a drawer, not a list area."	If the drawer is deleted, the drawer and its settings will be lost. Delete this drawer?	0.4598036015897535	0.7729922533035278	TRUE
+_Vula idokhumende	_Unlock Document	Open the document	0	0.6971538066864014	"Error Diagnosis: Misinterpretation of meaning
+Minimal Correction: Change ""open"" to ""unlock""
+Must-Preserve: ""idokhumende""
+Factual Detail: The action is to unlock, not open, the document."	Unlock the document	0	0.8718025088310242	TRUE
+Khulula ulwazi	Document Not Found	Free the information	0	0.5516726970672607	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use original source phrase
+Must-Preserve: Khulula ulwazi
+Factual Detail: Correct translation of the isiZulu phrase."	Free the information	0	0.5516726970672607	FALSE
+Isikhwama sakhona sokonga amafayela athunyelwe.	The default folder to save file transfers in.	This is their bag for saving submitted files.	0.02573285	0.5720145106315613	"Error Diagnosis: Misinterpretation of context
+Minimal Correction: Use correct terminology
+Must-Preserve: Isikhwama, amafayela athunyelwe
+Factual Detail: Refers to a default folder for saving file transfers."	Our default folder for saving submitted files.	0.069563599	0.7642472386360168	TRUE
+marker	Door open	marker	0	0.5356385707855225	"Error Diagnosis: Incorrect translation
+Minimal Correction: Replace with correct translation
+Must-Preserve: marker
+Factual Detail: The correct translation is ""Door open."""	Door open.	0.21177974141341938	0.9652456045150757	TRUE
+Kubenephutha ekuboniseni usiza.	There was an error displaying help.	There is a mistake in showing assistance.	0.034010868	0.6264890432357788	"Error Diagnosis: Misinterpreted meaning
+Minimal Correction: Change ""mistake"" to ""error""
+Must-Preserve: displaying help
+Factual Detail: Accurately convey the idea of assistance being shown."	There is an error in displaying assistance.	0.089563496	0.7561790347099304	TRUE
+_Jikeliza isikhala sohlu oloqonde-thwi	_Rotate on vertical panels	Pivot the straight list space	0	0.4906104505062103	"Error Diagnosis: Misinterpretation of isiZulu phrase
+Minimal Correction: Change to ""Rotate on vertical panels""
+Must-Preserve: Jikeliza, isikhala sohlu oloqonde-thwi
+Factual Detail: Refers to a specific type of rotation."	Rotate on vertical panels	0.43146827293898643	0.8852676153182983	TRUE
+Okujikelele	General	Circular	0	0.6461637020111084	"Error Diagnosis: Inaccurate meaning
+Minimal Correction: Change to ""General""
+Must-Preserve: Okujikelele
+Factual Detail: Reflects the overall, broad nature of the original isiZulu term."	General	1	0.9844248294830322	TRUE
+Umkhombandlela wezimiso ongakhetha kuwo isithombe esiyisifaniso muntu	Default directory to select an avatar image from	A guideline of principles from which one can choose a representative image of a person	0.019730657693620934	0.5951645374298096	"Error Diagnosis: Misinterpretation of context
+Minimal Correction: Use correct term
+Must-Preserve: Default directory, avatar image
+Factual Detail: The translation should convey the concept of choosing an image for an avatar."	A guideline for selecting an avatar image that resembles a person	0.11609514815067874	0.6919633746147156	FALSE
+Ukuhlola kuqala kwegama lefayela	File Name Preview	Checking the initial name of the file	0	0.5432233214378357	"Error Diagnosis: Misinterpretation of meaning
+Minimal Correction: Use accurate translation
+Must-Preserve: file name
+Factual Detail: Preview implies a visual representation."	First preview of the file name	0	0.7367165684700012	TRUE
+_Izibekisi-bhukwini	_Bookmarks	The book covers	0	0.5078598856925964	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use correct term
+Must-Preserve: Izibekisi-bhukwini
+Factual Detail: The items used to mark places in a book."	Bookmarks	0	0.7382267713546753	TRUE
+Izinqamulo zendawo yokushaya uma ubhala	Power plugin	Local punching bag breaks when you write	0	0.35581231117248535	"Error Diagnosis: Literal phrasing
+Minimal Correction: Replace with accurate term
+Must-Preserve: Power plugin
+Factual Detail: Represents a source of energy or electricity."	The power source of a punching bag in a specific location malfunctions when you write	0	0.33800286054611206	FALSE
+Akha umqalisi omusha	Create a new folder '%s'	Build a new initiative	0.061884293332739315	0.5391747951507568	"Error Diagnosis: Misinterpretation of the source text
+Minimal Correction: Use the correct translation
+Must-Preserve: Create a new folder
+Factual Detail: Reflect the action of creating a new folder."	Create a new folder	0.36787944117144233	0.8261463046073914	TRUE
+Covalent	Calendar	Covalent	0	0.6236566305160522	"Error Diagnosis: Incorrect translation
+Minimal Correction: Replace with accurate translation
+Must-Preserve: Covalent
+Factual Detail: The word ""covalent"" does not match the context of a calendar."	Iqembu	0	0.4785144329071045	FALSE
+Isigam_u esithi ntwii (imizuzwana):	Pin_g interval:	A phrase that means "in a moment" (a few seconds):	0.016591439325163958	0.43105077743530273	"Error Diagnosis: Misinterpretation of isiZulu phrase.
+Minimal Correction: Use correct translation.
+Must-Preserve: ntwii, imizuzwana
+Factual Detail: ""Pin_g interval"" signifies a very short moment in time."	A moment (a few seconds)	0	0.4857761859893799	FALSE
+%s: Iphutha makuhlolwa ukuhlanganiswa	Error in checksum	Error, please check the combination	0.037593405	0.6558414697647095	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use correct term
+Must-Preserve: Error, checksum
+Factual Detail: Convey the concept of a mistake in a checksum."	Error, the checksum must be verified before combining.	0.027895820162122397	0.5482919216156006	FALSE
+Kwesokudla	Right	To the right	0	0.695006788	"Error Diagnosis: Unnecessarily added word
+Minimal Correction: Remove ""to""
+Must-Preserve: Kwesokudla, Right
+Factual Detail: The translation should accurately convey the direction without adding unnecessary words."	Kwesokudla, Right	0.0724975	0.6907814741134644	FALSE
+Ikhalenga	Calendar	The bellows	0	0.5028454661369324	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Replace with correct term
+Must-Preserve: Ikhalenga
+Factual Detail: Refers to a calendar, not a bellows"	The calendar	0	0.8781783580780029	TRUE
+Gcina isithombe	Save Image	Keep the picture	0	0.5860963463783264	"Error Diagnosis: Incorrect verb choice
+Minimal Correction: Change ""keep"" to ""save""
+Must-Preserve: Image
+Factual Detail: Emphasize action of preserving the image."	Save the picture	0.0724975	0.8508337736129761	TRUE
+Uhlelo ngamahora	_12 hour format	Program in hours	0	0.6512227058410645	"Error Diagnosis: Incorrect time format
+Minimal Correction: Use 12-hour format
+Must-Preserve: Program
+Factual Detail: Correct time representation."	Program by hours	0	0.6424272656440735	FALSE
+Khetha imihume ebonakalayo kulesibaya	Mount the volume associated with this folder	Choose the visible bushes in this pen.	0.034010868	0.5064681768417358	"Error Diagnosis: Misinterpretation of isiZulu phrase.
+Minimal Correction: Use correct meaning of ""imihume"" as ""volume.""
+Must-Preserve: ""imihume ebonakalayo,"" ""kulesibaya""
+Factual Detail: The translation must convey the concept of selecting or mounting a visible volume in a specific location."	Choose the visible volume in this enclosure.	0.037639213	0.6140770316123962	FALSE
+Sedric Motha Launchpad Contributions: Priscilla Mahlangu https://launchpad.net/~priny Sedric https://launchpad.net/~sedric	translator-credits	Sedric Motha Launchpad Contributions: Priscilla Mahlangu https://launchpad.net/~priny Sedric https://launchpad.net/~sedric	0	0.41230276226997375	"Error Diagnosis: Missing translation context
+Minimal Correction: Use appropriate translation context
+Must-Preserve: Sedric Motha, Priscilla Mahlangu, Launchpad Contributions
+Factual Detail: Accurate representation of Launchpad contributors."	Sedric Motha Launchpad Contributions: Priscilla Mahlangu https://launchpad.net/~priny Sedric https://launchpad.net/~sedric	0	0.41230276226997375	FALSE
+Uphawu lokubekisa	Bookmarks	Sign of indication	0	0.476980597	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""bookmarks""
+Must-Preserve: Uphawu lokubekisa
+Factual Detail: Refers to physical markers in a book."	Bookmarks	1	0.985539973	TRUE
+Hlela uhlelo lokuqala kabusha	Edit Startup Program	Arrange the initial program again	0	0.49860242009162903	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use more idiomatic expression
+Must-Preserve: Startup Program
+Factual Detail: Reflect the concept of a new or revised program."	Revise the startup program	0	0.687182605	FALSE
+Uhlobo lenhlanganisi %s oyithandayo ayifakiwe kulomshini. Bewufuna ukwenza %s iphutha lenhlanganiso yakho nakusasa?	Do you wish to make %s the default for future sessions?	The type of combination %s you like is not included in this machine. Would you like to make %s an error in your combination tomorrow?	0.089146098	0.5097296833992004	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use accurate translation
+Must-Preserve: default, future sessions
+Factual Detail: Reflect the intention of setting a default option for future sessions."	The type of combination %s you prefer is not available on this machine. Would you like to set %s as your default combination for future sessions?	0.1022875701616399	0.6865727305412292	FALSE
+Okuthandwa iNhlanzi	Fish Preferences	What Fish Love	0.0724975	0.6139070391654968	"Error Diagnosis: Misinterpretation 
+Minimal Correction: Use more accurate term 
+Must-Preserve: Fish Preferences 
+Factual Detail: Reflects the specific preferences of fish."	Beloved Fish Preferences	0.21177974141341938	0.78821677	TRUE
+marker	Door open	marker	0	0.5356385707855225	"Error Diagnosis: Wrong translation
+Minimal Correction: Use correct translation
+Must-Preserve: marker
+Factual Detail: The translation must accurately convey the meaning of ""Door open."""	Isixhobo sivule.	0	0.36209341883659363	FALSE
+Bonke ohele abasebenzisekayo kulesibaya kuzovela kuhlu lwemibhalo.	All executable files in this folder will appear in the Scripts menu.	All users who are employed in this farm will appear on the list of documents.	0.059244301	0.41669270396232605	"Error Diagnosis: Lost context
+Minimal Correction: Replace with appropriate context
+Must-Preserve: kuzovela kuhlu lwemibhalo
+Factual Detail: Indicates appearance in a specific location."	All registered users on this site will be listed in the document.	0.058235846	0.4850851595401764	FALSE
+Lwizela _Phandle	Zoom _Out	Lwizela _Phandle	0	0.5767505168914795	"Error Diagnosis: Incorrect translation
+Minimal Correction: Replace with accurate translation
+Must-Preserve: Lwizela, _Phandle
+Factual Detail: The translation should accurately convey the meaning of ""Zoom _Out""."	Zoom _Out	0.2213885886251307	0.9850119352340698	TRUE
+Uhambisa ohele	Moving Files	You are carrying the burden.	0	0.44456416368484497	"Error Diagnosis: Misinterpretation
+Minimal Correction: Change to ""Moving files""
+Must-Preserve: Uhambisa
+Factual Detail: Reflects the action of moving files accurately."	"Uhambisa ohele
+Moving files"	0.061033220311973134	0.6353949308395386	FALSE
+Ifayela elivumelekile .ifayela lobuso bekhomphyutha	File is not a valid .desktop file	A valid file. Computer face file.	0.034010868	0.5821312069892883	"Error Diagnosis: Incorrect translation of ""desktop file""
+Minimal Correction: Replace with ""desktop file""
+Must-Preserve: File
+Factual Detail: Emphasize the importance of the file being a desktop file."	A valid file. Desktop file.	0.038481967	0.6783252358436584	FALSE
+Okujikelele	General	Surroundings	0	0.5920083522796631	"Error Diagnosis: Inaccurate interpretation
+Minimal Correction: Replace with ""General""
+Must-Preserve: Okujikelele
+Factual Detail: Captures the overall essence or concept."	"Okujikelele
+General"	0.067544361	0.6541684865951538	FALSE
+Bonisa ukulingana kuhlu longabathinta	Show Balance in contact list	Show equality in the list of those affected.	0.033866335496821456	0.5576401948928833	"Error Diagnosis: Inaccurate interpretation
+Minimal Correction: Use correct term
+Must-Preserve: Balance, contact list
+Factual Detail: The translation should convey the idea of maintaining equilibrium in a list of contacts."	Show equal distribution in the contact list.	0.084703925	0.7868382334709167	TRUE
+Yonga umbonisomuntu	Save Avatar	Save the personality	0.0724975	0.6875025033950806	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""Save Avatar""
+Must-Preserve: ""Save""
+Factual Detail: Reflects the concept of preserving or protecting an avatar."	Save the avatar	0.0724975	0.876946747	TRUE
+Ongathintwa okhethiwe ungaphandle kolayini	The specified contact is offline	Those who can be touched are outside the line.	0	0.4568285644054413	"Error Diagnosis: Misinterpretation of ""ungathintwa"" as ""touched"" instead of ""contact"".
+Minimal Correction: Replace ""can be touched"" with ""specified contact"".
+Must-Preserve: Ongathintwa
+Factual Detail: Emphasize the concept of specified contact being offline."	Those who are not chosen are outside of the specified contact.	0.047747532	0.6258858442306519	FALSE
+Lenkinobho isho inani lemizuzwana ezobonisa ifelemu ngalodwa.	This key specifies the number of seconds each frame will be displayed.	The stopwatch indicates the number of seconds that will show a single frame.	0.2044800736021839	0.6959473490715027	"Error Diagnosis: Incorrect phrasing
+Minimal Correction: Use accurate wording
+Must-Preserve: specifies, number of seconds
+Factual Detail: Each frame displayed"	The stopwatch shows the number of seconds for each frame to be displayed.	0.2865612242047131	0.7043927907943726	TRUE
+Ukubukwa kwedokhumende	Document View	Government oversight	0	0.5226278305053711	"Error Diagnosis: Misinterpretation
+Minimal Correction: Change to ""Document View""
+Must-Preserve: Ukubukwa kwedokhumende
+Factual Detail: Accuracy in translating the concept of viewing documents."	Document View	0.2213885886251307	0.9796907901763916	TRUE
+Yonga umbonisomuntu	Save Avatar	Save the vision of humanity	0.045649693	0.5994279384613037	"Error Diagnosis: Misinterpretation of the term ""umbonisomuntu""
+Minimal Correction: Replace with correct term ""Avatar""
+Must-Preserve: Yonga
+Factual Detail: ""Avatar"" refers to a manifestation or incarnation of a deity in human form."	Embrace the Avatar of humanity	0.045649693	0.5607329607009888	FALSE
+Translate.org.za <info\@translate\.org\.za> Kemi Translations <monde\.hamnca\@gmail\.com>	translator-credits	Translate.org.za <info@translate.org.za> Kemi Translations <monde.hamnca@gmail.com>	0	0.5141141414642334	"Error Diagnosis: Missing translation for ""translator-credits"".
+Minimal Correction: Add translation for ""translator-credits"".
+Must-Preserve: Translate.org.za, Kemi Translations
+Factual Detail: Acknowledgement of translators."	Translate.org.za <info@translate.org.za> Kemi Translations <monde.hamnca@gmail.com> Translator credits: Acknowledgement of translators.	0	0.6244011521339417	FALSE
+Yamukela	Accept	Receive	0	0.6123636960983276	"Error Diagnosis: Incorrect nuance
+Minimal Correction: Change to ""Accept""
+Must-Preserve: Yamukela
+Factual Detail: Conveys the idea of welcoming or embracing something."	Accept	1	0.9891536235809326	TRUE
+(Inani th copy)	(	(Price th copy)	0.045649693	0.5588367581367493	"Error Diagnosis: Incorrect translation
+Minimal Correction: Translate ""Inani"" as ""Number""
+Must-Preserve: Number
+Factual Detail: The translation should convey the meaning of counting or quantity."	Number per copy	0	0.5679706335067749	FALSE
+Amagama angukhiye:	Keywords:	The words are the key:	0.037593405	0.5591763854026794	"Error Diagnosis: Missing specificity
+Minimal Correction: Change ""key"" to ""keywords""
+Must-Preserve: Amagama angukhiye
+Factual Detail: ""Keywords"" is a specific term related to searching and categorizing information."	Keywords are essential.	0.061033220311973134	0.7913222312927246	TRUE
+isi-Bhalthikhi	Baltic	isi-Bhalthikhi	0	0.6273161172866821	"Error Diagnosis: Mistranslation
+Minimal Correction: Correct translation to ""Baltic""
+Must-Preserve: Baltic
+Factual Detail: Refers to the Baltic region."	Baltic	1	0.9844714403152466	TRUE
+Ngakhoni Ukubuyisela Ihele	Unable to start %s	I was unable to return the blanket.	0.028599617161713803	0.5486681461334229	"Error Diagnosis: Incorrect phrasing
+Minimal Correction: Use correct wording
+Must-Preserve: Unable
+Factual Detail: Express the inability to start."	I couldn't return the blanket.	0	0.4895259439945221	FALSE
+Ayaziwa	Unknown	It is known	0	0.5686625838279724	"Error Diagnosis: Incorrect negation
+Minimal Correction: Change to ""unknown""
+Must-Preserve: Ayaziwa
+Factual Detail: The original source indicates lack of knowledge."	Unknown	1	0.9875068664550781	TRUE
+Iya esabelweni sasekhaya	Unable to eject location	She is going to the family gathering.	0.028599617161713803	0.45520249009132385	"Error Diagnosis: Incorrect location interpretation
+Minimal Correction: Omit location reference
+Must-Preserve: esabelweni, ekhaya
+Factual Detail: Indicates going home for a family gathering."	She is going home for a family gathering.	0	0.45096081495285034	FALSE
+Hlela uhlelo lokuqala kabusha	Edit Startup Program	Plan to restart the first program	0	0.4652485251426697	"Error Diagnosis: Literal phrasing
+Minimal Correction: Revise to match intended action
+Must-Preserve: Edit, Startup Program
+Factual Detail: Express the idea of revising or editing the program."	Revise the first program startup plan	0	0.585812509	FALSE
+Uphawu loku_bekisa	_Bookmarks	Sign of the announcement	0	0.40373915433883667	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use correct term
+Must-Preserve: Uphawu
+Factual Detail: Means ""bookmarks"" in isiZulu."	Bookmark symbol	0	0.6259227991104126	FALSE
+Khubaza ikhamera	Swap camera	Capture the camera	0.0724975	0.6415220499038696	"Error Diagnosis: Misinterpretation of the verb ""khubaza""
+Minimal Correction: Use the correct meaning of ""swap""
+Must-Preserve: ""khubaza""
+Factual Detail: The action of exchanging or trading an item"	Swap the camera	0.086214543	0.8739301562309265	TRUE
+Amayintshi	Inches	Hints	0	0.5264394283294678	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Replace with correct translation
+Must-Preserve: Amayintshi
+Factual Detail: The word means ""inches"" in isiZulu."	Inches	1	0.980693519	TRUE
+Umxhumanisi unqamukile, ngabe ufuna ukuyihambisa ku?	The Link "%s" is Broken. Move it to Trash?	The connector has broken, do you want to take it to?	0.048725949144079676	0.49580779671669006	"Error Diagnosis: Omitted context
+Minimal Correction: Add context
+Must-Preserve: Link, Broken, Trash
+Factual Detail: The item is broken and should be moved to the trash."	The connector is broken, do you want to throw it away?	0.025926417583718425	0.6550849080085754	FALSE
+Umayelana:	_Applet:	About	0	0.633299708	"Error Diagnosis: Inaccurate translation
+Minimal Correction: Use correct term ""Applet""
+Must-Preserve: Umayelana
+Factual Detail: Refers to a specific type of software application."	Applet	0	0.8799014091491699	TRUE
+Ubungako	Size	Magnitude	0	0.5542846322059631	"Error Diagnosis: Inaccurate interpretation
+Minimal Correction: Change from ""Magnitude"" to ""Size""
+Must-Preserve: Ubungako
+Factual Detail: Reflects the concept of size rather than intensity."	"Ubungako
+Size"	0.067544361	0.7995218634605408	TRUE
+isi-Baltic	Baltic	isi-Baltic	0	0.6940411925315857	"Error Diagnosis: Unnecessary inclusion of ""isi-"" prefix.
+Minimal Correction: Remove ""isi-"" prefix.
+Must-Preserve: Baltic
+Factual Detail: Language spoken in the Baltic region."	Baltic	1	0.9880052208900452	TRUE
+%s: Ngakhoni ukufunda Isibonakaliso soMkhandi	%s: Could not read Manufacturer ID	I could not learn the Engineer's Sign	0.028599617161713803	0.5967332124710083	"Error Diagnosis: Misinterpretation of the meaning
+Minimal Correction: Use accurate translation
+Must-Preserve: Manufacturer ID
+Factual Detail: Correctly convey the concept of identifying the manufacturer."	I couldn't learn the Manufacturer's Identification	0.028599617161713803	0.7012761235237122	TRUE
+Ukugcwaliswa	Saturation	Fulfillment	0	0.4522877037525177	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Change from 'Fulfillment' to 'Saturation'
+Must-Preserve: Ukugcwaliswa
+Factual Detail: The concept of being completely filled or saturated."	Saturation	1	0.9870988726615906	TRUE
+Umbuyekezo wegama lehele	File Name Preview	The return of the name of the heavens	0	0.33808714151382446	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use correct translation
+Must-Preserve: File Name Preview
+Factual Detail: Accurate document title."	The significance of the name "helehele"	0	0.42624425888061523	FALSE
+_Vula idokhumende	_Unlock Document	Open the document	0	0.6971538066864014	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change ""Open"" to ""Unlock""
+Must-Preserve: Vula idokhumende
+Factual Detail: The action is unlocking, not just opening."	Unlock the document	0	0.8718025088310242	TRUE
+Phoqa Ukuyeka	Force Quit	Stop Resisting	0	0.6544339060783386	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""Force Quit""
+Must-Preserve: ""Phoqa Ukuyeka""
+Factual Detail: Reflects the correct meaning of the source phrase."	Force Quit	0.2213885886251307	0.9786490797996521	TRUE
+Mawuthulula udoti, izinhlamvu zokucimeka unomphelo.	If you choose to empty the trash, all items in it will be permanently lost. Please note that you can also delete them separately.	When you throw away rubbish, it's the end of the line for the waste.	0.012402667	0.48328113555908203	"Error Diagnosis: Literal phrasing
+Minimal Correction: Add nuance and clarity
+Must-Preserve: empty the trash, permanently lost
+Factual Detail: Emphasize the irrevocable nature of discarding items."	Emptying the trash, the remnants of negligence are irretrievably lost.	0.038130994	0.5485468506813049	FALSE
+Uhlobo lwehele elibumime.	The SELinux security context of the file.	The type of a dry riverbed.	0.036917987119846896	0.4100450277328491	"Error Diagnosis: Misinterpretation of source text.
+Minimal Correction: Replace with correct technical term.
+Must-Preserve: Uhlobo lwehele
+Factual Detail: Translation refers to SELinux security context."	SELinux security context.	0.17056466617330127	0.7922965884208679	TRUE
+Ongathintwa uya ngaphandle kolayini	Contact goes offline	Those who can be touched will be outside the line.	0	0.38472500443458557	"Error Diagnosis: Literal phrasing
+Minimal Correction: Revise for natural English expression
+Must-Preserve: Contact goes offline
+Factual Detail: Convey the idea of losing connection."	Those who cannot be reached will go offline.	0.023457495174891017	0.652539849	FALSE
+Machashaza	Dots	Machashaza	0	0.6087140440940857	"Error Diagnosis: Literal translation
+Minimal Correction: Replace with accurate translation
+Must-Preserve: Dots
+Factual Detail: Reflects the meaning of small round marks."	Dots	1	0.9863352179527283	TRUE
+N_dawoleyo:	Local	I am coming.	0	0.4810369908809662	"Error Diagnosis: Incorrect verb choice
+Minimal Correction: Change verb to match meaning
+Must-Preserve: N_dawoleyo
+Factual Detail: Indicates local origin or identity."	I am from Dawoleyo.	0	0.5072125196456909	FALSE
+Ukulanda	Description	Download	0	0.6385977864265442	"Error Diagnosis: Incorrect translation
+Minimal Correction: Use correct translation
+Must-Preserve: Ukulanda
+Factual Detail: The word ""ukulanda"" means ""description"" in isiZulu."	Description	1	0.9789637923240662	TRUE
+Cishacustomsession	Shut Down	Cishacustomsession	0	0.4763074219226837	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use accurate translation
+Must-Preserve: Shut Down
+Factual Detail: The action of closing a session or program."	Shut Down Custom Session	0.16821895003341453	0.6874178647994995	FALSE
+_Sebenzisa Njengephutha	Default	Use As A Mistake	0	0.4318750202655792	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Replace with accurate term
+Must-Preserve: Sebenzisa Njengephutha
+Factual Detail: Correctly convey the meaning of default."	Act like a default	0	0.6058093309402466	FALSE
+Zijwayeze izibalo ngomdlalo owuhlosile	Practice addition with a target game	Get accustomed to the statistics of the game you are targeting.	0.020044994979069072	0.5958377718925476	"Error Diagnosis: Misinterpretation of the intended action.
+Minimal Correction: Replace with the correct action.
+Must-Preserve: Practice, addition, target game
+Factual Detail: The translation should convey the idea of practicing addition within a specific game context."	Practice adding numbers in the game you are aiming for.	0.02568481	0.5993164777755737	FALSE
+Priscilla Mahlangu	translator-credits	Priscilla Mahlangu	0	0.5420687794685364	"Error Diagnosis: Missing translator credits
+Minimal Correction: Add translator credits
+Must-Preserve: Priscilla Mahlangu
+Factual Detail: Acknowledgment of the translator's contribution."	Priscilla Mahlangu (Translated by: [Translator's Name])	0	0.5621740818023682	FALSE
+Umsindo wokuphihlika	Shutter	The sound of cracking	0	0.3997664153575897	"Error Diagnosis: Inaccurate interpretation
+Minimal Correction: Replace with correct term
+Must-Preserve: Umsindo, wokuphihlika
+Factual Detail: Reflect the concept of 'shutter' accurately."	The sound of a shutter closing	0	0.4152141213417053	FALSE
+Umbala ongenelele	Color	Intruding color	0	0.6885693669319153	"Error Diagnosis: Overtranslation
+Minimal Correction: Remove unnecessary word
+Must-Preserve: Umbala
+Factual Detail: The translation should accurately convey the concept of ""color"" without any added words."	Color intrudes	0.067544361	0.8050401210784912	TRUE
+isi-Khoriyeni	Korean	is-Khoriyeni	0	0.49250245094299316	"Error Diagnosis: Misspelling
+Minimal Correction: Change spelling to ""Korean""
+Must-Preserve: isiZulu
+Factual Detail: Language origin clarification."	Korean	1	0.9858728051185608	TRUE
+_Jikeliza isikhala sohlu oloqonde-thwi	_Rotate on vertical panels	Rotate the rectangular list space	0	0.6008759140968323	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Translate as ""Rotate on vertical panels""
+Must-Preserve: Jikeliza, isikhala sohlu
+Factual Detail: Refers to rotating on vertical surfaces."	Rotate on vertical panels	0.43146827293898643	0.8852676153182983	TRUE
+Hambisa uhlamvu olukhethiwe ngalunye ukuya kudoti	Move the selected file out of the trash to ‚Äú%s‚Äù	Move each selected item to the trash.	0.047939885058777255	0.6981446743011475	"Error Diagnosis: Incorrect target location
+Minimal Correction: Move the selected file out of the trash.
+Must-Preserve: selected file
+Factual Detail: Emphasizing the specific item being moved."	Move the selected file out of the trash.	0.5535566902494308	0.802651048	TRUE
+Gcina imiboniso-sithombe ihlelwe ngokobungakanani kumdenda	Keep icons sorted by trash time in rows	Keep the photo exhibitions arranged according to size in the gallery.	0.023837651	0.5364061594009399	"Error Diagnosis: Misinterpretation of key words.
+Minimal Correction: Use correct terms.
+Must-Preserve: icons, sorted by trash time
+Factual Detail: Organizing icons based on when they will be deleted."	Sort the icons by deletion time to preserve them.	0.0308718	0.5938730239868164	FALSE
+Inhlobo-mbhalo	Font	In the type of writing	0	0.47412171959877014	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use correct term
+Must-Preserve: Font
+Factual Detail: The translation should accurately convey the concept of font."	Font style	0.067544361	0.8120110034942627	TRUE
+lazy bum	libfaim maintainer	lazy bum	0	0.5553848743438721	"Error Diagnosis: Literal phrasing
+Minimal Correction: Replace with accurate translation
+Must-Preserve: libfaim maintainer
+Factual Detail: Maintains the meaning of lazy bum in isiZulu."	izimpandla ezidolobha	0	0.5040280818939209	FALSE
+intwana yemenyu yesisakazi	radio menu item	the menu item of the broadcaster	0.097177166	0.622911811	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change ""broadcaster"" to ""radio""
+Must-Preserve: intwana yemenyu, yesisakazi
+Factual Detail: Emphasize the radio context in the menu item translation."	the radio menu item of the presenter	0.19308506685901675	0.6733311414718628	FALSE
+Ihele alitholakalanga	Icon '%s' not found	The gate is not available.	0.03182213	0.5236624479293823	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use correct icon reference
+Must-Preserve: Icon
+Factual Detail: Communicate that the specific icon is not found."	The specific icon is not found.	0.081939172	0.7436339855194092	TRUE
+_Phezulu	_Up	Above	0	0.5003823637962341	"Error Diagnosis: Incorrect direction translation
+Minimal Correction: Change to ""Up""
+Must-Preserve: Phezulu
+Factual Detail: Directional translation meaning ""Up"" is crucial."	Up	0	0.830679178	TRUE
+Imbobo yokuxhumana:	Port:	Communication channel:	0.0724975	0.6516681909561157	"Error Diagnosis: Incorrect translation
+Minimal Correction: Change to ""port""
+Must-Preserve: Imbobo yokuxhumana
+Factual Detail: The translation should accurately convey the meaning of a port."	Imbobo yokuxhumana: Port	0.07258114	0.7033063769340515	TRUE
+Umngenisi-bizo:	Password:	Noun introducer:	0.0724975	0.43299415707588196	"Error Diagnosis: Incorrect translation
+Minimal Correction: Replace with ""Password""
+Must-Preserve: Umngenisi-bizo
+Factual Detail: The term refers to a password, not a noun introducer."	Password:	0.2213885886251307	0.9864940643310547	TRUE
+%s: angitholi umsenzisi wegdm (%s). Ngiyaphunza!	%s: Can't find the GDM user '%s'. Aborting!	%s: I can't find the GDM implement (%s). I'm learning!	0.21479172459878046	0.5896329283714294	"Error Diagnosis: Incorrect translation of ""umsebenzisi"" as ""implement"".
+Minimal Correction: Replace ""implement"" with ""user"".
+Must-Preserve: ""angitholi"", ""wegdm"", ""Ngiyaphunza""
+Factual Detail: The translation should convey the meaning of not being able to find a specific GDM user."	%s: I can't find the GDM user (%s). I'm learning!	0.2915369229944523	0.6308339238166809	FALSE
+Buyisela _emuva	Zoom _Out	Return back	0	0.5483896136283875	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use appropriate phrasal verb
+Must-Preserve: Zoom Out
+Factual Detail: Convey the action of moving away from a close-up view."	Step back	0	0.5479277968406677	FALSE
+Hlenga lelihele ngegama elihlukile	Save the current file with a different name	Change this name to a different one	0.078609008	0.6106938719749451	"Error Diagnosis: Misinterpretation of ""hlela"" as ""change"" instead of ""save"".
+Minimal Correction: Use correct verb ""save"" instead of ""change"".
+Must-Preserve: current file, different name
+Factual Detail: The action is to save the current file with a different name."	Save this file with a different name	0.5578002860768766	0.90132606	TRUE
+ilebula	label	table	0	0.6291944980621338	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Replace with correct translation
+Must-Preserve: isiZulu, ilebula
+Factual Detail: The word ""ilebula"" in isiZulu means ""label,"" not ""table."""	label	1	0.98139143	TRUE
+Phoqa lesisebenziso ukuphuma? (Ibhukwana elivuliwe lozolahleka.)	If you choose to force an application to exit, unsaved changes in any open documents in it might get lost.	Do you need to exit this application? (This is an open document that will be lost.)	0.045104336	0.6595243811607361	"Error Diagnosis: Incomplete information
+Minimal Correction: Include consequences of exiting
+Must-Preserve: unsaved changes, open documents
+Factual Detail: Consequences of losing unsaved changes when forcing an application to exit."	Do you want to exit this application? (Unsaved changes may be lost in this open document.)	0.039061501	0.7238858938217163	TRUE
+Isihleli sebha yamathuluzi	Toolbar Editor	A tool holder	0	0.6342820525169373	"Error Diagnosis: Misinterpretation
+Minimal Correction: Translate as ""Toolbar Editor""
+Must-Preserve: Isihleli, yamathuluzi
+Factual Detail: Tool holder refers to a physical object, while Toolbar Editor is a software function."	Toolbar Editor	0.2213885886251307	0.9814413785934448	TRUE
+isi-Nodikhi	Nordic	isi-Nodikhi	0	0.5753456950187683	"Error Diagnosis: Literal phrasing
+Minimal Correction: Change to 'Nordic'
+Must-Preserve: isiZulu
+Factual Detail: Reflects region accurately."	Nordic	1	0.9894395470619202	TRUE
+Uqinisekeli ufuna ukuthulula zonke izinhlamvu kudoti?	Empty all of the items from the trash?	Are you sure you want to throw all the letters in the trash?	0.10237664105496519	0.6802777051925659	"Error Diagnosis: Misinterpretation of ""throw all the letters in the trash""
+Minimal Correction: Use ""empty all of the items from the trash""
+Must-Preserve: Uqinisekeli, zonke izinhlamvu
+Factual Detail: The instruction to remove all items from the trash, not to throw them away."	Are you sure you want to empty all of the items from the trash?	0.4758733096412523	0.7701151371002197	TRUE
+Akukhonakali ukusungula umchachazo wevidiyo	Can't establish video stream	It is not possible to create a video explanation.	0.023457495174891017	0.6736711859703064	"Error Diagnosis: Inaccurate phrasing
+Minimal Correction: Use correct term
+Must-Preserve: video stream
+Factual Detail: Emphasize the establishment of a stream, not creation of content."	It is not possible to establish a video stream.	0.063026476	0.8070927858352661	TRUE
+Ukhethe %s kulenhlanganiso, kodwa uhlelo lwephutha lakho i-%s. Bewufuna ukwenza %s iphutha lenhlanganiso yakho nakusasa?	You have chosen %s for this session, but your default setting is %s.	You chose %s in this configuration, but your error program is %s. Would you like to make %s the error in your configuration tomorrow?	0.13172130827463843	0.6354602575302124	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Replace ""error program"" with ""default setting""
+Must-Preserve: ""You have chosen"", ""for this session"", ""%s""
+Factual Detail: Clarify the difference between the user's choice and the system's default setting."	You have chosen %s in this session, but your default setting is %s. Would you like to make %s the error in your configuration tomorrow?	0.4343577468569328	0.7265115976333618	TRUE
+_Umbhalo eduze nomboniso-sithombe	_Text beside icons	Text close to the image display	0	0.6602466702461243	"Error Diagnosis: Inaccurate phrasing
+Minimal Correction: Use correct description
+Must-Preserve: Text, icons
+Factual Detail: Clarify location of text and icons."	Text and icon in close proximity	0	0.6635833382606506	FALSE
+Umumo wesuku lwenyanga yehele. Amanani engenzeka "ndaweni", "iso" no "ngemthethweni".	The format of file dates. Possible values are "locale", "iso", and "informal".	The state of the day of the new moon. Possible meanings include "place," "eye," and "officially."	0.045112913369222594	0.5117853879928589	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use correct context
+Must-Preserve: format, file dates, possible values
+Factual Detail: Indicates different date formats."	The essence of the new moon day. Possible interpretations include "location," "eye," and "according to the law."	0.043590592	0.5251225233078003	FALSE
+Sebenzisa _Iphutha Lesizinda	Use _Default Background	Use _Database Error	0.0724975	0.5472299456596375	"Error Diagnosis: Incorrect term usage
+Minimal Correction: Replace with correct term
+Must-Preserve: Use
+Factual Detail: The translation should convey the idea of utilizing something."	Use _The Database Error	0.061033220311973134	0.5759382247924805	FALSE
+Iya esabelweni sasekhaya	Unable to eject location	Go to the local government office	0.037593405	0.4845786690711975	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""Unable to eject location""
+Must-Preserve: Iya esabelweni
+Factual Detail: Indicates inability to leave a place."	Unable to eject location	1	0.9750750660896301	TRUE
+iwindi lendlela yokufaka	input method window	the window of the way to insert	0.032359348	0.5722146034240723	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use correct terminology
+Must-Preserve: input method window
+Factual Detail: Accurate technical description."	The input method window	0.43146827293898643	0.9191626906394958	TRUE
+Isikhwama sakhona sokonga amafayela athunyelwe.	The default folder to save file transfers in.	Its savings bag for the files sent.	0.025239074	0.4927075207233429	"Error Diagnosis: Misinterpreted function of ""isikhwama"".
+Minimal Correction: Translate ""isikhwama"" as ""default folder"".
+Must-Preserve: amafayela athunyelwe
+Factual Detail: Express purpose of saving file transfers."	Our default folder for saving received files.	0.069563599	0.7761713266372681	TRUE
+Umfundi milayezo	Mail Reader	Student message	0	0.5666195750236511	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use correct context
+Must-Preserve: Umfundi, milayezo
+Factual Detail: Refers to a student's email or message reader."	Student email/message	0	0.5436663627624512	FALSE
+Hlela uhlelo lokuqala kabusha	Edit Startup Program	Plan to restart the program	0	0.5192630887031555	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use more accurate term
+Must-Preserve: Startup Program
+Factual Detail: The program is being edited, not just restarted."	Edit the startup program for the first time.	0.02573285	0.5584988594055176	FALSE
+Incwadi yezinsuku zonyaka%%s	Calendar	Book of the Days of the Year	0	0.4613005220890045	"Error Diagnosis: Misinterpretation
+Minimal Correction: Change to ""Calendar""
+Must-Preserve: Days of the Year
+Factual Detail: Refers to a book or document that lists days of the year."	Calendar of the Year's Days	0.037593405	0.5671151876449585	FALSE
+Isibonisi %s sihlangabezane nephutha masiqala.	The desktop view encountered an error.	The indicator %s encountered an error when we started.	0.13190955568171472	0.5837908387184143	"Error Diagnosis: Inaccurate context
+Minimal Correction: Use contextually appropriate term
+Must-Preserve: Isibonisi, masiqala
+Factual Detail: The error occurred in the desktop view."	The indicator %s encountered a glitch in the desktop view.	0.060039343	0.6483786106109619	FALSE
+Akha isiqalisi	Create Launcher	Build a foundation	0	0.6666647791862488	"Error Diagnosis: Misinterpretation
+Minimal Correction: Use appropriate synonym
+Must-Preserve: Akha isiqalisi
+Factual Detail: Launcher creation as the intended action."	Create a launcher	0.0724975	0.9079552888870239	TRUE
+Ayaziwa	Unknown	It is known	0	0.5686625838279724	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""Unknown""
+Must-Preserve: Ayaziwa
+Factual Detail: The original word means ""unknown"" in isiZulu."	Unknown	1	0.9875068664550781	TRUE
+Isibekisi-bhukwini Sesabelo Esingekho	Bookmark for Nonexistent Location	Book Cover of an Absentee Share	0	0.4361686706542969	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Use appropriate term
+Must-Preserve: Bookmark, Nonexistent Location
+Factual Detail: Reflects the purpose of the item as a marker for a non-existent place."	Bookmark for a Nonexistent Location	0.17141814854755813	0.9341493844985962	TRUE
+%s: Ngakhoni ukuqala isithakazeli ngizama ephutheni: %s	%s: Cannot start greeter trying default: %s	I couldn't start the excitement while trying to rush: %s	0.11057078116370667	0.4986644685268402	"Error Diagnosis: Incorrect interpretation of the isiZulu phrase
+Minimal Correction: Use accurate translation of the isiZulu phrase
+Must-Preserve: start greeter, trying default
+Factual Detail: Maintain the correct meaning of the isiZulu phrase."	I couldn't contain my excitement when I tried to hurry: %s	0.090102883	0.45905667543411255	FALSE
+Igama lendikima kumele libe khona	Theme cannot be deleted	The name of the document must be present.	0.02573285	0.4859046936035156	"Error Diagnosis: Misinterpretation of meaning.
+Minimal Correction: Change to ""Theme must be present.""
+Must-Preserve: Theme
+Factual Detail: Emphasize the necessity of the theme's presence."	The theme must be present.	0.037593405	0.6051888465881348	FALSE
+Ucingo lwephimbo lunqanyuliwe	Voice call ended	The phone call has been disconnected.	0.032359348	0.6268236637115479	"Error Diagnosis: Misinterpretation of ""lunqanyuliwe""
+Minimal Correction: Change to ""ended""
+Must-Preserve: Ucingo, lweiphimbo
+Factual Detail: Reflects the completion of the voice call."	The phone call has ended.	0.044706344276931285	0.8060935139656067	TRUE
+Akha isiqalisi esisha	Create a new launcher	Build a new beginning	0.16821895003341453	0.6929914951324463	"Error Diagnosis: Misinterpretation of ""isiqalisi"" as ""beginning""
+Minimal Correction: Replace ""beginning"" with ""launcher""
+Must-Preserve: Akha isiqalisi esisha
+Factual Detail: ""Isiqalisi"" refers to a launcher or platform, not just a beginning."	Build a new launcher	0.43146827293898643	0.8700346350669861	TRUE
+Okula_ndelayo	_Next	What is being done	0	0.4664870798587799	"Error Diagnosis: Wrong interpretation
+Minimal Correction: Use the correct term ""next""
+Must-Preserve: Okula_ndelayo
+Factual Detail: Indicates the following or upcoming event."	Next	0	0.849193811	TRUE
+_I-Tab elandelayo	_Next	The next tab	0	0.6479886174201965	"Error Diagnosis: Overtranslation
+Minimal Correction: Remove ""The""
+Must-Preserve: Next
+Factual Detail: Emphasize sequence or order."	Next tab	0	0.7788068056106567	TRUE
+Ngekho	None	There is none	0	0.6019855737686157	"Error Diagnosis: Unnecessary word
+Minimal Correction: Remove ""is""
+Must-Preserve: None
+Factual Detail: Reflect absence accurately."	There is none	0	0.6019855737686157	FALSE
+Umphelelo wesikhathi _sokulinda:	Maximum _wait time:	The duration of the waiting period:	0.032359348	0.6425806283950806	"Error Diagnosis: Misinterpretation of meaning
+Minimal Correction: Change to reflect the concept of a maximum waiting time
+Must-Preserve: Maximum, wait time
+Factual Detail: Emphasize the concept of a limit on waiting time."	Maximum waiting time:	0.18616487055295167	0.9013411998748779	TRUE
+Umumo wesuku lwenyanga yehele. Amanani engenzeka "ndaweni", "iso" no "ngemthethweni".	The format of file dates. Possible values are "locale", "iso", and "informal".	The condition of the day of the new moon. Possible meanings include "place", "eye", and "officially".	0.1691896235111172	0.5237637758255005	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Replace with correct meanings
+Must-Preserve: ""Umumo wesuku lwenyanga yehele"", ""ndaweni"", ""iso""
+Factual Detail: Translate as ""The format of file dates"" and include possible values ""locale"", ""iso"", and ""informal""."	The format of file dates. Possible meanings include "locale", "iso", and "informal".	0.8232490471721702	0.8705240488052368	TRUE
+Ohele _Basendaweni Kuphela	_Local File Only	Ohele _Only at the Place	0	0.5821418762207031	"Error Diagnosis: Misinterpretation of ""Basendaweni"".
+Minimal Correction: Use ""Local File"" instead of ""Only at the Place"".
+Must-Preserve: Ohele
+Factual Detail: Capturing the meaning of referring to a file located in a specific place."	Ohele_Local File Only	0.21177974141341938	0.9262771010398865	TRUE
+Ukulanda	Description	Downloading	0	0.5173802375793457	"Error Diagnosis: Misinterpretation
+Minimal Correction: Replace with ""Description""
+Must-Preserve: Ukulanda
+Factual Detail: Reflects the meaning of the original isiZulu word."	Downloading	0	0.5173802375793457	FALSE
+Isizinda	Select background	Foundation	0	0.5524207353591919	"Error Diagnosis: Inaccurate translation
+Minimal Correction: Change to ""Select background""
+Must-Preserve: Isizinda
+Factual Detail: Conveys the idea of choosing or selecting a background."	Select background	0.2213885886251307	0.9846773743629456	TRUE
+%s: Ngakhoni ukufunda isibonakaliso senhlanganiso	%s: Could not read Session ID	I was unable to learn the organization's sign.	0	0.5231283903121948	"Error Diagnosis: Misinterpretation of the source text
+Minimal Correction: Use the correct term for ""Session ID""
+Must-Preserve: %s
+Factual Detail: The translation should convey the inability to read the Session ID."	I was unable to read the session ID.	0.030601688609851067	0.786864161	TRUE
+Ukuthutha okuxegayo	Loose Routing	Heavy transport	0	0.5243563055992126	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use correct meaning
+Must-Preserve: Ukuthutha, okuxegayo
+Factual Detail: Express the concept of loose routing"	Loose routing transport	0.0724975	0.930620551	TRUE
+Izingobo zomlando zonke	All archives	All historical narratives	0.0724975	0.6022413372993469	"Error Diagnosis: Misinterpretation
+Minimal Correction: Replace with ""archives""
+Must-Preserve: ""zomlando"", ""zonke""
+Factual Detail: Emphasizes the comprehensive nature of the historical records."	All archives of history	0.16821895003341453	0.7322620749473572	TRUE
+_Namathelayo	_Sticky	_The one who is persistent	0	0.49126580357551575	"Error Diagnosis: Misinterpretation of meaning
+Minimal Correction: Change to ""sticky""
+Must-Preserve: Namathelayo
+Factual Detail: Conveys the stickiness of the object."	Sticky	0	0.5307685732841492	FALSE
+Dlulela engomeni elandelayo	Next track	Go to the next song	0	0.6554949879646301	"Error Diagnosis: Inaccurate interpretation
+Minimal Correction: Use correct term 
+Must-Preserve: Next track
+Factual Detail: Maintain the meaning of moving to the following audio selection."	Move to the next track.	0.037593405	0.797864556	TRUE
+Isilayele sesibenzisi esingekho mthethweni '%s'	Invalid command path	Unauthorized use of the '%s' application	0	0.4908391535282135	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Revise to ""Invalid use of the '%s' application""
+Must-Preserve: '%s', Isilayele sesibenzisi
+Factual Detail: Emphasize the incorrect use of the application."	Invalid use of the '%s' application	0.02573285	0.5428685545921326	FALSE
+Umsindo kanye nevidiyo	Sound & Video	Noise and video	0	0.6512680053710938	"Error Diagnosis: Lost nuance
+Minimal Correction: Use ""&"" instead of ""and""
+Must-Preserve: Umsindo, nevidiyo
+Factual Detail: Maintain the distinction between sound and video."	Sound & video	0.21177974141341938	0.980448842	TRUE
+_Isibekisi-bhukwini	_Bookmarks	Book cover	0	0.5677201151847839	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Use accurate term
+Must-Preserve: Isibekisi-bhukwini
+Factual Detail: Bookmarks are different from book covers."	Bookmarks	0	0.7449713945388794	TRUE
+Vumela ukuhlolwa kokupeletwa kwezilimi:	Enable spell checking for languages:	Allow the examination of language delivery:	0.032359348	0.6386654376983643	"Error Diagnosis: Inaccurate verb choice
+Minimal Correction: Replace ""allow"" with ""enable""
+Must-Preserve: spell checking, languages
+Factual Detail: The translation should convey the functionality of enabling spell checking for different languages."	Enable the ability to check spelling in different languages:	0.063026476	0.8049069046974182	TRUE
+_Nge	_About	_Nge	0	0.6737672090530396	"Error Diagnosis: Missing context
+Minimal Correction: Use appropriate context
+Must-Preserve: _Nge
+Factual Detail: Translate accurately to convey the intended meaning."	_Nge	0	0.6737672090530396	FALSE
+_Izibekisi-bhukwini	Folders	_The book covers	0	0.533665657	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Replace ""covers"" with ""folders""
+Must-Preserve: Izibekisi-bhukwini
+Factual Detail: The translation should refer to folders, not book covers."	Folders	1	0.9835221767425537	TRUE
+Ungan_aki ukupotsozwa kabili kwangaphakathi:	_Ignore duplicate keypresses (Bounce Keys)	You cannot be caught twice from within.	0	0.4477430582046509	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use accurate technical term 
+Must-Preserve: Ungan_aki, kwangaphakathi
+Factual Detail: Translate technical term ""Bounce Keys"" accurately."	You cannot bounce keys twice from within.	0	0.540548563	FALSE
+_Ungenzi	_Undo	You do not do	0	0.36508193612098694	"Error Diagnosis: Incorrect verb choice
+Minimal Correction: Change ""do"" to ""undo""
+Must-Preserve: Ungenzi
+Factual Detail: The action of reversing or cancelling something."	You undo	0	0.5907003283500671	FALSE
+Incwadi yezinsuku zonyaka	Calendar	The book of the days of the year	0	0.4198099672794342	"Error Diagnosis: Overly literal translation
+Minimal Correction: Use more context-appropriate term
+Must-Preserve: days, year
+Factual Detail: Reflects a collection of days in a year, like a calendar"	The calendar book of the year	0	0.4659302830696106	FALSE
+Priscilla Mahlangu Launchpad Contributions: Priscilla Mahlangu https://launchpad.net/~priny Xolani1990 https://launchpad.net/~beno-1990 Zuza Software Foundation https://launchpad.net/~info-translate	translator-credits	Priscilla Mahlangu Launchpad Contributions: Priscilla Mahlangu https://launchpad.net/~priny Xolani1990 https://launchpad.net/~beno-1990 Zuza Software Foundation https://launchpad.net/~info-translate	0	0.43184977769851685	"Error Diagnosis: Missing translation of ""translator-credits""
+Minimal Correction: Add ""translator-credits""
+Must-Preserve: Priscilla Mahlangu
+Factual Detail: Acknowledgement of translator contributions."	Priscilla Mahlangu Launchpad Contributions: Priscilla Mahlangu https://launchpad.net/~priny Xolani1990 https://launchpad.net/~beno-1990 Zuza Software Foundation https://launchpad.net/~info-translate translator-credits: Priscilla Mahlangu, Xolani1990, Zuza Software Foundation	0.009299104	0.47940269112586975	FALSE
+_Iziqikithi	_Contents	Essentials	0	0.6828111410140991	"Error Diagnosis: Inaccurate interpretation
+Minimal Correction: Change to ""Contents""
+Must-Preserve: Iziqikithi
+Factual Detail: Reflects the actual meaning of the isiZulu word."	Contents	0	0.8157759308815002	TRUE
+Cisha ngokushesha?	_Delete Permanently	Turn it off quickly?	0	0.5217766761779785	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""Delete Permanently""
+Must-Preserve: Cisha ngokushesha
+Factual Detail: The urgent and final nature of the action is emphasized."	Delete permanently.	0	0.8820505738258362	TRUE
+_Uhume olubonakalayo...	Visible _Columns...	A visible phenomenon...	0.061033220311973134	0.6256182789802551	"Error Diagnosis: Missing key element.
+Minimal Correction: Add ""Columns"" after ""Visible"".
+Must-Preserve: Visible
+Factual Detail: The translation must include the word ""Columns"" to accurately reflect the source text."	A visible columns phenomenon...	0.045649693	0.6517010927200317	FALSE
+_Qamba kabusha uphawu lokubekisa	_Rename Bookmark	Redefine the marking sign	0	0.5580276846885681	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Use the correct translation
+Must-Preserve: Bookmark
+Factual Detail: Reflects the action of renaming a bookmark"	Renew the bookmark symbol	0	0.777207613	TRUE
+Lwizela _Phandle	Zoom _Out	Lwizela _Phandle	0	0.5767505168914795	"Error Diagnosis: Misinterpretation
+Minimal Correction: Change to ""Zoom Out""
+Must-Preserve: Lwizela
+Factual Detail: Capture the action of zooming out in the translation."	Zoom Out	0.067544361	0.9203688502311707	TRUE
+Ukulanda	Description	To download	0	0.43998828530311584	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""Description""
+Must-Preserve: Ukulanda
+Factual Detail: The word ""Ukulanda"" in isiZulu does not directly translate to ""to download."""	Description	1	0.9789637923240662	TRUE
+Igama lomboniso-sithombe kwidesktop yesiga-nyezi	Desktop computer icon name	The name of the slideshow on the desktop of the current scene	0.020044994979069072	0.525408924	"Error Diagnosis: Overly literal phrasing
+Minimal Correction: Use more natural wording
+Must-Preserve: Desktop computer icon name
+Factual Detail: Refers to the name of the icon on a computer desktop."	The name of the desktop icon in the current scene's slideshow	0.023837651	0.5588047504425049	FALSE
+iNautilus ayikhonanga ukwakha lezibaya ezilandelayo ezidingekayo: %s.	Nautilus could not create the following required folders: %s.	Nautilus has not been able to build the following necessary facilities: %s.	0.2102369368326755	0.6132245063781738	"Error Diagnosis: Inaccurate wording
+Minimal Correction: Replace ""facilities"" with ""folders""
+Must-Preserve: ""Nautilus"", ""required"", ""following""
+Factual Detail: Emphasize the specific type of items (folders) that Nautilus could not create."	Nautilus has not been able to create the following required folders: %s.	0.57955815	0.8940939903259277	TRUE
+_Ithuluzi kokumele	Toolbar Editor	The tool that is necessary	0	0.5087116956710815	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use specific term
+Must-Preserve: Toolbar Editor
+Factual Detail: Specific software feature."	Toolbar Editor	0.2213885886251307	0.9828402996063232	TRUE
+Ayaziwa	Unknown	It is not known	0	0.6947727799415588	"Error Diagnosis: Overly literal translation
+Minimal Correction: Simplify to ""Unknown""
+Must-Preserve: Ayaziwa
+Factual Detail: Capturing the sense of uncertainty or lack of knowledge."	Unknown	1	0.9875068664550781	TRUE
+Ungenekhone ukukopela izinhlamvu kudoti.	You cannot move the volume "%s" to the trash.	You cannot steal letters from the trash.	0.13943081391348622	0.5448575615882874	"Error Diagnosis: Misinterpretation of isiZulu phrase.
+Minimal Correction: Correct the translation to match the source meaning.
+Must-Preserve: kudoti
+Factual Detail: The action of moving something to the trash."	You must not rummage through the trash for scraps.	0.048002893858592556	0.4843122661113739	FALSE
+Uhlele lwangaphandle elizosetshenzoswa ukuhlela izithombe	External program to use for editing images	An external layout that will be used to organize images	0.027895820162122397	0.6149190664291382	"Error Diagnosis: Incorrect function description
+Minimal Correction: Replace ""organize images"" with ""editing images""
+Must-Preserve: External program
+Factual Detail: The program is used for editing, not just organizing, images."	An external layout that will be used for editing images	0.12867201458772706	0.7410443425178528	TRUE
+Khetha imihume ebonakalayo kulesibaya	Mount the volume associated with this folder	Choose visible paths in this kraal.	0.032359348	0.5054295063018799	"Error Diagnosis: Misinterpretation of key terms.
+Minimal Correction: Use appropriate technical terminology.
+Must-Preserve: visible paths, kraal
+Factual Detail: Maintaining the connection between paths and the specific location within a kraal."	Choose the clearly marked paths within this homestead.	0.030601688609851067	0.49260061979293823	FALSE
+Kuxhunyanisiwe noma kuthembiwe	Paired or trusted	It has been confirmed or promised	0.037593405	0.557378888	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Replace with more appropriate synonym
+Must-Preserve: Kuthembiwe
+Factual Detail: The translation should convey the meaning of ""trusted"" or ""reliable."""	It is trusted or relied upon	0.044706344276931285	0.6087458729743958	FALSE
+Hlunga _ngokwamagama	Sort by _Name	Filter according to words	0	0.6599632501602173	"Error Diagnosis: Incorrect translation
+Minimal Correction: Change translation to ""Sort by Name""
+Must-Preserve: Hlunga
+Factual Detail: The action involves sorting or arranging based on names."	Sort by Name	0.21177974141341938	0.9110895395278931	TRUE
+Sebenzisa _Isizinda	Background	Use _Isizinda	0	0.507271945	"Error Diagnosis: Inaccurate translation
+Minimal Correction: Use correct translation
+Must-Preserve: _Isizinda
+Factual Detail: Background, not literal meaning"	Use _Isizinda	0	0.507271945	FALSE
+Inkimba sikhati	Clock	It is time for a change.	0	0.4743950664997101	"Error Diagnosis: Misinterpretation
+Minimal Correction: Translate as ""clock""
+Must-Preserve: Inkimba
+Factual Detail: The original isiZulu phrase refers to a clock, not a need for change."	The clock ticks	0	0.7524690628051758	TRUE
+_Isibekisi-bhukwini	_Bookmarks...	The book cover	0	0.5630643963813782	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""bookmarks""
+Must-Preserve: ""Isibekisi-bhukwini""
+Factual Detail: Reflects the concept of bookmarks in isiZulu."	Bookmarks	0	0.724369228	TRUE
+Ingxoxo ku-%s	Chat in %s	Conversation on %s	0.16821895003341453	0.6872044801712036	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Replace ""Conversation"" with ""Chat""
+Must-Preserve: Ingxoxo
+Factual Detail: Emphasize the informal nature of the communication."	Chat on %s	0.18616487055295167	0.8709893226623535	TRUE
+Ayifani	Does not match	It is not the same.	0.037593405	0.6232336759567261	"Error Diagnosis: Inaccurate meaning
+Minimal Correction: Use ""Not the same""
+Must-Preserve: Ayifani
+Factual Detail: Expresses similarity comparison."	Not the same	0	0.686386228	FALSE
+_Xoxa	_Chat	Talk	0	0.696794331	"Error Diagnosis: Inaccurate meaning
+Minimal Correction: Change to ""Chat""
+Must-Preserve: Xoxa
+Factual Detail: Reflects informal conversation in isiZulu."	Xoxa	0	0.5259970426559448	FALSE
+Qala isisebenzisi X bese unqikaza size sithole uhamba kwififo	Start the first X server but then halt until we get a GO in the fifo	Start using X and we will find out how to deal with the disease.	0.021950584824506632	0.5011522769927979	"Error Diagnosis: Misinterpretation of key terms.
+Minimal Correction: Correctly interpret ""Qala"" as ""Start"" and ""isisebenzisi"" as ""the first X server"".
+Must-Preserve: Qala, isisebenzisi, uhamba kwififo
+Factual Detail: Emphasize the action of starting the first X server and waiting for a signal."	Start the first X server and then you can proceed to find out how to deal with the disease.	0.19496249079519765	0.5731853246688843	FALSE
+Gcina imiboniso-sithombe ihlelwe ngokobungakanani kumdenda	Keep icons sorted by trash time in rows	Keep the presentations arranged according to size in the portfolio.	0.02568481	0.5589349269866943	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Sort icons by size in columns
+Must-Preserve: icons, sorted by trash time
+Factual Detail: Sorting icons by size is not the correct instruction."	Sort icons by trash time in columns	0.3768499164492419	0.7070966958999634	TRUE
+Indingiliza	Circle	Indingiliza	0	0.447905958	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Change to ""Circle""
+Must-Preserve: None
+Factual Detail: The translation should accurately convey the concept of a circle."	Circle	1	0.9797905087471008	TRUE
+Lenkinobho isho inani lemizuzwana ezobonisa ifelemu ngalodwa.	This key specifies the number of seconds each frame will be displayed.	Lenkinobho indicates the number of seconds that will display a single frame.	0.2224246939793677	0.6898730397224426	"Error Diagnosis: Incorrect frame of reference
+Minimal Correction: Change to ""each frame""
+Must-Preserve: key, specifies, number
+Factual Detail: Specifies the duration each frame is displayed."	Lenkinobho specifies the number of seconds each frame is displayed for.	0.5051968359286049	0.7378539443016052	TRUE
+_Nge	_About	_Nge	0	0.6737672090530396	"Error Diagnosis: Incorrect translation
+Minimal Correction: Replace with correct term
+Must-Preserve: _Nge
+Factual Detail: The translation should convey the meaning ""about."""	About	0	0.7869929075241089	TRUE
+Isikhwama sakhona sokonga amafayela athunyelwe.	The default folder to save file transfers in.	Its storage bag for the sent files.	0.025239074	0.5620434284210205	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use appropriate terminology
+Must-Preserve: default folder, save file transfers
+Factual Detail: It is a designated folder for saving transferred files."	Our designated folder for storing received files.	0.030014486	0.6718128323554993	FALSE
+Ijubane eliphinde kabu_sha:	Charge rate:	A speed that is repeated.	0	0.3710663914680481	"Error Diagnosis: Misinterpretation of meaning.
+Minimal Correction: Use correct term.
+Must-Preserve: Charge rate
+Factual Detail: Reflects the concept of a rate or speed."	A recurring charge rate.	0.045649693	0.6363598704338074	FALSE
+Inqgikithi yohlu luka GNOME	The main GNOME menu	The essence of the GNOME list	0.044706344276931285	0.6305287480354309	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use more accurate translation
+Must-Preserve: GNOME, main menu
+Factual Detail: The translation should accurately convey that it refers to the main menu of GNOME."	The main menu of GNOME	0.14414490662307036	0.9129666686058044	TRUE
+Ukugcwaliswa	Saturation	Fulfillment	0	0.4522877037525177	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Change ""Fulfillment"" to ""Saturation""
+Must-Preserve: Ukugcwaliswa
+Factual Detail: Reflects the concept of being completely filled or saturated."	Saturation	1	0.9870988726615906	TRUE
+Izithombe zonke	_Image	All the pictures	0	0.6382977962493896	"Error Diagnosis: Over-generalization
+Minimal Correction: Use singular form
+Must-Preserve: Image
+Factual Detail: Emphasize singularity of the noun."	Every image	0	0.5904539227485657	FALSE
+_Ungayenzi	_Undo	You can do it	0	0.4327857494354248	"Error Diagnosis: Incorrect translation
+Minimal Correction: Change to ""Undo""
+Must-Preserve: _Ungayenzi
+Factual Detail: The translation should convey the meaning of 'undoing' something."	Undo	0	0.6789588928222656	FALSE
+Ngokuka GNOME ebusweni besiga -nyezi	About the GNOME Desktop	According to GNOME on the face of the snowflake	0.030601688609851067	0.45044153928756714	"Error Diagnosis: Literal phrasing
+Minimal Correction: Replace ""on the face of"" with ""about""
+Must-Preserve: GNOME Desktop
+Factual Detail: Expressing the topic correctly."	According to GNOME about each snowflake	0.037593405	0.482032835	FALSE
+Umlandiso:print job	print job	Umlandiso:print job	0.16821895003341453	0.6721919775009155	"Error Diagnosis: Unnecessary translation
+Minimal Correction: Remove isiZulu prefix
+Must-Preserve: print job
+Factual Detail: Retain original term for accurate translation."	print job	0.2213885886251307	0.9910669922828674	TRUE
+%s: Ngakhoni ukufunda izinga lesiboniso	%s: Could not read Display Class	I managed to learn the level of the demonstration.	0	0.526651144	"Error Diagnosis: Misinterpretation of isiZulu phrase.
+Minimal Correction: Use accurate translation.
+Must-Preserve: izinga lesiboniso
+Factual Detail: Correctly convey the concept of reading a display class."	I struggled to learn the display level.	0	0.6148244142532349	FALSE
+Ingobo yomlando idalwe ngempumelelo	"%s" created successfully	The history book has been created successfully.	0.071227227	0.5468472242355347	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use reference phrase
+Must-Preserve: ""%s"", created successfully
+Factual Detail: Maintain accuracy of the original phrase."	The history book is published successfully.	0.032359348	0.49267658591270447	FALSE
+Okwangaphandle	Extension(s)	Outward appearance	0	0.4791129529476166	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Use correct translation
+Must-Preserve: Okwangaphandle
+Factual Detail: The word refers to extension(s) rather than outward appearance."	Extension(s)	1	0.982880712	TRUE
+K_hetha isithombe ofuna ukusigcina:	S_elect the images you want to save:	You are looking for a picture you want to keep.	0.11609514815067874	0.5693449974060059	"Error Diagnosis: Incorrect verb choice
+Minimal Correction: Replace ""looking for"" with ""select""
+Must-Preserve: ""select the images""
+Factual Detail: The action is selecting images to save, not looking for a specific picture."	Select the images you want to keep.	0.5169731539571706	0.8008350729942322	TRUE
+Vula inda_wo...	Open _Location	Open your heart...	0.061033220311973134	0.5184016823768616	"Error Diagnosis: Incorrect location translation
+Minimal Correction: Replace ""heart"" with correct location
+Must-Preserve: Vula, inda_wo
+Factual Detail: Location must be accurately translated to convey the intended meaning."	Open the door...	0.061033220311973134	0.6252108812332153	FALSE
+intwana yemenyu yesisakazi	radio menu item	the content of the broadcaster's menu	0.032359348	0.5337408781051636	"Error Diagnosis: Misinterpretation
+Minimal Correction: Change ""content of the broadcaster's menu"" to ""radio menu item""
+Must-Preserve: intwana yemenyu, yesisakazi
+Factual Detail: Refers to a specific item on a radio menu."	radio menu item	0.5757197301274735	0.9852364659309387	TRUE
+%s: Ngakhoni ukufunda isibonakaliso senhlanganiso	%s: Could not read Session ID	I was unable to learn the organization's sign.	0	0.5231283903121948	"Error Diagnosis: Misinterpretation of the meaning.
+Minimal Correction: Use correct terminology.
+Must-Preserve: Session ID
+Factual Detail: Correctly convey the concept of reading the Session ID."	I was unable to read the session ID accurately.	0.027895820162122397	0.7556690573692322	TRUE
+Uma ngabe kungaboniswa abangathintwa abangaphandle kolayini kuhlu lokuxhumana.	Whether to show contacts that are offline in the contact list.	If it can show the external contacts affected by the line in the contact list.	0.24903286388467735	0.5978148579597473	"Error Diagnosis: Lost meaning
+Minimal Correction: Include offline contacts
+Must-Preserve: contact list
+Factual Detail: The translation must convey that the contacts are offline."	If offline contacts who are not on the contact list are not displayed on the call log.	0.086156345	0.6429038643836975	FALSE
+Qamba futhi "%s" ku "%s".	Moving "%B" to "%B"	Create again "%s" in "%s".	0.074728926	0.6489661335945129	"Error Diagnosis: Incorrect action verb
+Minimal Correction: Change action verb to ""Moving""
+Must-Preserve: ""%B"", ""%B""
+Factual Detail: Emphasizing the action of moving instead of creating."	Move again "%s" to "%s".	0.2620251007173262	0.8132500052452087	TRUE
+%s: Ngakhoni ukufunda Isibonakaliso soMkhandi	%s: Could not read Manufacturer ID	I was unable to learn the Engineer's Sign	0	0.5723944902420044	"Error Diagnosis: Misinterpretation of isiZulu phrase
+Minimal Correction: Use correct English equivalent
+Must-Preserve: Isibonakaliso soMkhandi
+Factual Detail: Correctly convey the meaning of ""Manufacturer ID"" in isiZulu."	I struggled to learn the Manufacturer ID	0.071031257	0.7522372007369995	TRUE
+isi-Bhalthikhi	Baltic	isi-Bhalthikhi	0	0.6273161172866821	"Error Diagnosis: Misidentification
+Minimal Correction: Change to ""Baltic""
+Must-Preserve: Baltic
+Factual Detail: Reflects the correct region or language group."	Baltic	1	0.9844714403152466	TRUE
+Ngakhoni ukusebenzisa ukhetho	Cannot run chooser	I was unable to use the option.	0	0.5437169671058655	"Error Diagnosis: Incorrect phrasing
+Minimal Correction: Use correct terminology
+Must-Preserve: chooser
+Factual Detail: Express inability to run a specific function."	I couldn't use the chooser function.	0.028599617161713803	0.6207557320594788	FALSE
+_Hlela	_Edit	Arrange	0	0.532175601	"Error Diagnosis: Incorrect meaning
+Minimal Correction: Change to ""Edit""
+Must-Preserve: Hlela
+Factual Detail: The original word ""Hlela"" means to edit or revise, not arrange."	Edit	0	0.8154100179672241	TRUE
+Hl_ela	_Edit	Hl_ela	0	0.6818606853485107	"Error Diagnosis: Missing translation.
+Minimal Correction: Add appropriate translation.
+Must-Preserve: Hl_ela
+Factual Detail: The correct translation is ""_Edit."""	_Edit.	0.067544361	0.9657065868377686	TRUE
+Cisha ngokushesha?	_Delete Permanently	Turn it off quickly?	0	0.5217766761779785	"Error Diagnosis: Misinterpretation of isiZulu phrase.
+Minimal Correction: Translate as ""Turn off quickly?""
+Must-Preserve: Cisha, ngokushesha
+Factual Detail: Urgency in action of turning off."	Turn off quickly?	0	0.5569107532501221	FALSE
+Gcina imiboniso-sithombe ihlelwe ngezibonakalisi kumdenda	Keep icons sorted by emblems in rows	Keep the presentations arranged with visuals in the document.	0.027895820162122397	0.5682963728904724	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Replace ""visuals"" with ""icons""
+Must-Preserve: icons, sorted by emblems
+Factual Detail: The translation must emphasize the organization of icons based on their emblems."	Arrange the presentations with icons sorted by emblems in the document.	0.31702331385234306	0.7124370336532593	TRUE
+Cisha ngokushesha?	_Delete Permanently	Do you speak quickly?	0	0.45527157187461853	"Error Diagnosis: Literal phrasing
+Minimal Correction: Delete Permanently
+Must-Preserve: Cisha ngokushesha
+Factual Detail: The original phrase does not ask about speaking quickly."	Are you leaving soon?	0	0.5754854083061218	FALSE
+_Unga khombisi lomyalezo futhi	Don't show any warnings again	_You cannot show this message and_	0.032359348	0.5079903602600098	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use the correct wording
+Must-Preserve: Don't show, warnings
+Factual Detail: Emphasize the instruction to not display any warnings."	Do not display this message and any warnings	0.078825884	0.7315073013305664	TRUE
+Ngobungako	By Size	About the extent	0	0.547111452	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Replace with ""By Size""
+Must-Preserve: Ngobungako
+Factual Detail: The translation should convey the idea of measurement or scale."	By Size	0.2213885886251307	0.9793790578842163	TRUE
+Shaya i_ndiva amaphutha wesitifiketi se SSL	I_gnore SSL certificate errors	Strike the errors of the SSL certificate	0.0906806	0.6601768136024475	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use idiomatic expression
+Must-Preserve: SSL certificate, errors
+Factual Detail: Translation should convey the idea of ignoring SSL certificate errors."	Ignore the SSL certificate errors	0.29950981436291046	0.8956405520439148	TRUE
+Umbala wokubona ngale	Transparency color	The color of sight beyond	0.045649693	0.5397589206695557	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use more accurate term
+Must-Preserve: Transparency color
+Factual Detail: Reflects the concept of clarity and see-through quality."	The transparency of vision with clarity	0	0.5816366076469421	FALSE
+Khetha ihele lokujobelela kumlayelo...	Choose a file to append to the command...	Choose a job application template...	0.065228862	0.5988496541976929	"Error Diagnosis: Incorrect context
+Minimal Correction: Replace with accurate context
+Must-Preserve: Choose, append, command
+Factual Detail: The action is about selecting a file to add to a command."	Choose the file to append to the command...	0.7506238537503395	0.9059610962867737	TRUE
+Ngaqedanga isenzo esishiwo.	Could not find application	I have completed the mentioned action.	0	0.5324389338493347	"Error Diagnosis: Inaccurate translation
+Minimal Correction: Use accurate translation
+Must-Preserve: Ngaqedanga isenzo esishiwo
+Factual Detail: Reflect inability to find application"	The task mentioned has been completed.	0	0.5505439043045044	FALSE
+Ongathintwa uxhunyiwe	Contact connected	You cannot be touched if you are connected.	0.023457495174891017	0.47340384125709534	"Error Diagnosis: Inaccurate translation
+Minimal Correction: Simplify translation to ""Contact connected""
+Must-Preserve: Contact, connected
+Factual Detail: Maintain the connection between contact and being connected."	Contact connected	0.2213885886251307	0.9733603000640869	TRUE
+Uma kucela isiqiniseko masihambisa ohele kudoti	Whether to ask for confirmation when deleting files, or emptying Trash	If you ask for confirmation, let us move on to the next step.	0.095351648	0.49840208888053894	"Error Diagnosis: Misinterpretation of context.
+Minimal Correction: Consider context for accurate translation.
+Must-Preserve: isiqiniseko, masihambisa, ohele
+Factual Detail: The need for confirmation when deleting files or emptying Trash."	When deleting files, make sure to confirm before emptying the Trash.	0.11572726495597013	0.7837542295455933	TRUE
+Ukuhluka kwendikimba esetshenziselwa ukubonisa ingxoxo kumafasitela wengxoxo.	The theme variant that is used to display the conversation in chat windows.	The variation of the framework used to represent dialogue in conversation windows.	0.068908898	0.6651279330253601	"Error Diagnosis: Inaccurate theme representation.
+Minimal Correction: Change ""framework"" to ""theme variant.""
+Must-Preserve: conversation, chat windows
+Factual Detail: The translation should accurately convey the concept of displaying conversations in chat windows."	The variation of the theme variant used to display conversations in chat windows.	0.30130404892785684	0.8391023874282837	TRUE
+N_dawoleyo:	Local	I am a professional translator.	0	0.4601806700229645	"Error Diagnosis: Incorrect register
+Minimal Correction: Use informal register
+Must-Preserve: N_dawoleyo
+Factual Detail: Translation should reflect a local, informal tone."	Izibonelo, ngiyi translator esetshenzisayo.	0	0.4079958498477936	FALSE
+_Isibekisi-bhukwini	_Bookmarks	Book cover	0	0.5677201151847839	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Change ""book cover"" to ""bookmarks""
+Must-Preserve: Isibekisi-bhukwini
+Factual Detail: The translation should refer to bookmarks, not a book cover."	Isibekisi-bhukwini	0	0.46339887380599976	FALSE
+Inkimba sikhati	Clock	Time is a burden.	0	0.4557441771030426	"Error Diagnosis: Misinterpretation
+Minimal Correction: Replace with ""clock""
+Must-Preserve: Inkimba
+Factual Detail: The translation should reflect the original word for ""clock"" in isiZulu."	The clock is a burden.	0	0.5212689638137817	FALSE
+ngaziwa	Unknown	I am known.	0	0.5310394167900085	"Error Diagnosis: Incorrect negation
+Minimal Correction: Change ""I am known"" to ""Unknown""
+Must-Preserve: ngaziwa
+Factual Detail: The original phrase indicates being unknown."	Unknown	1	0.9877035617828369	TRUE
+Lenkinobho isho inani lemizuzwana ezobonisa ifelemu ngalodwa.	This key specifies the number of seconds each frame will be displayed.	Lenkinobho indicates the number of seconds that will show a single frame.	0.2224246939793677	0.6704782247543335	"Error Diagnosis: Incorrect frame duration indication.
+Minimal Correction: Specify each frame's display duration.
+Must-Preserve: This key, seconds, frame
+Factual Detail: Specifies how long each frame is displayed."	Lenkinobho indicates the duration of each frame in seconds.	0.055525462	0.6429415941238403	FALSE
+Dlulela engomeni elandelayo	Next track	Move on to the next song	0	0.6362038254737854	"Error Diagnosis: Inaccurate meaning
+Minimal Correction: Use ""Next track"" instead of ""Move on to the next song""
+Must-Preserve: Next track
+Factual Detail: The translation should refer to the next track in a music context."	Go to the next track	0.045649693	0.8278264999389648	TRUE
+Izakhiwo	Properties	Structures	0	0.6993665099143982	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Change to ""Properties""
+Must-Preserve: Izakhiwo
+Factual Detail: The translation should convey the meaning of ""properties"" rather than ""structures."""	Properties	1	0.9841420650482178	TRUE
+Okwangaphandle	Extension(s)	Outward Appearance	0	0.47838854789733887	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Change to ""Extension(s)""
+Must-Preserve: Okwangaphandle
+Factual Detail: Reflects the concept of something external or extending beyond."	Extension(s)	1	0.982880712	TRUE
+Iya esabelweni sasekhaya	Unable to mount location	Go to the home village	0.045649693	0.5344725847244263	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use appropriate context
+Must-Preserve: sasekhaya
+Factual Detail: Reflect the inability to access a location."	It's inaccessible at the home village	0	0.5650053024291992	FALSE
+Qeda lomdlalo wamanje	End the current game	Finish this game now	0.061033220311973134	0.6632436513900757	"Error Diagnosis: Misinterpretation of verb 'qeda'
+Minimal Correction: Use 'end' instead of 'finish'
+Must-Preserve: Qeda, lomdlalo
+Factual Detail: Emphasize completion of the game."	End this game now	0.07258114	0.8125612139701843	TRUE
+Ucingo olungenayo	In a call	A phone that is not available	0	0.5304568409919739	"Error Diagnosis: Literal phrasing
+Minimal Correction: Use contextually appropriate translation
+Must-Preserve: Ucingo olungenayo
+Factual Detail: The translation should convey the idea of being in a call."	A busy phone	0	0.6516876816749573	FALSE
+Buyisela omunye nomunye umboniso-sithombe okhethiwe kubungako bawo bemvelo	Restore each selected icon to its original size	Return another selected display-image according to their natural dimensions.	0.027895820162122397	0.6482272744178772	"Error Diagnosis: Misinterpreted meaning
+Minimal Correction: Use ""restore"" instead of ""return""
+Must-Preserve: selected icon, original size
+Factual Detail: The action is about returning the icons to their original sizes."	Restore each selected icon to its original size in the father nature conservation park.	0.4758733096412523	0.6611377000808716	TRUE
+Umyalo ukhishwe ngokungajwayelekile.	Command exited abnormally.	The order was issued unusually.	0.037593405	0.6903594732284546	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Replace with accurate term
+Must-Preserve: Umyalo, ngokungajwayelekile
+Factual Detail: Reflect the abnormal nature of the command."	The order was issued abnormally.	0.097177166	0.745307446	TRUE
+Indingiliza	Circle	Indingiliza	0	0.447905958	"Error Diagnosis: Lack of understanding
+Minimal Correction: Translate as ""Circle""
+Must-Preserve: Indingiliza
+Factual Detail: The word means ""circle"" in isiZulu."	Circle	1	0.9797905087471008	TRUE
+Ngakhoni ukusebenzisa ukhetho	Cannot run chooser	I could not use the election	0.037593405	0.5727640986442566	"Error Diagnosis: Incorrect phrasing
+Minimal Correction: Change to ""Cannot run chooser""
+Must-Preserve: ukhetho
+Factual Detail: Expresses the concept of using a chooser."	Cannot run chooser	1	0.960028887	TRUE
+Igama lozokwengamela elilindelwe: %s	Expected hostname: %s	The name of the expected supervisor: %s	0.1444977144915524	0.633226216	"Error Diagnosis: Misinterpretation of context
+Minimal Correction: Change to match the context
+Must-Preserve: Expected, hostname
+Factual Detail: Emphasizing the expected nature of the term."	The anticipated supervisor's name: %s	0.16508103044554204	0.6535128355026245	FALSE
+Isiniseko siyadingekaYou must log in to acces user@server.com/share domain MYWINDOWSDOMAIN.	Authentication Required	A foundation is necessary	0	0.5049363970756531	"Error Diagnosis: Misinterpretation
+Minimal Correction: Correct terminology
+Must-Preserve: Authentication, Required
+Factual Detail: The request for login credentials is being made."	Authentication is required to access user@server.com/share domain MYWINDOWSDOMAIN.	0.021598265052211615	0.46229588985443115	FALSE
+Ibombo:	Bearing:	Drum:	0.067544361	0.6332830190658569	"Error Diagnosis: Incorrect word choice
+Minimal Correction: Replace ""drum"" with ""bearing""
+Must-Preserve: Ibombo
+Factual Detail: ""Ibombo"" refers to a bearing, not a drum."	"Ibombo:
+Bearing:"	0.16821895003341453	0.7455330491065979	TRUE
+Okwangaphandle	Extension(s)	Outside	0	0.4516849219799042	"Error Diagnosis: Incorrect interpretation
+Minimal Correction: Use accurate term
+Must-Preserve: Extension(s)
+Factual Detail: Reflects sense of expansion or continuation"	Beyond	0	0.6008365154266357	FALSE
