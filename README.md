@@ -84,12 +84,12 @@ python scripts/run_pipeline.py \
 
 All results are saved to outputs/csv/.
 
-Reproducing Figures
+## Reproducing Figures
 
 To regenerate all plots used in the paper:
-
+```
 python scripts/make_figures.py
-
+```
 ## Data Availability
 
 This repository includes all processed evaluation outputs (CSV files) required to reproduce figures and tables in the paper.
@@ -98,7 +98,7 @@ Raw datasets are not included due to licensing constraints. All scripts required
 
 Figures are saved to outputs/figures/.
 
-Citation
+## Citation
 
 If you use this work, please cite:
 
@@ -106,6 +106,6 @@ Cheng, N. (2026). Reflective Translation: Enhancing Low-Resource Machine Transla
 
 Structured metadata is also provided in CITATION.cff
 
-License
+## License
 
 This project is licensed under the MIT License. See LICENSE for details.
