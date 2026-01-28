@@ -23,7 +23,7 @@ arXiv:2601.19871 (2026)
   year={2026}
 }
 ```
-Overview
+## Overview
 
 Reflective Translation introduces a lightweight, inference-time framework in which a language model:
 
@@ -35,7 +35,7 @@ Produces a revised translation guided by masked reflective feedback
 
 This approach improves semantic fidelity and robustness in low-resource settings without additional training data or parameter updates.
 
-Datasets
+## Datasets
 
 All datasets are loaded programmatically from HuggingFace at runtime.
 
@@ -47,7 +47,7 @@ https://huggingface.co/datasets/masakhane/ntrex_african
 
 Raw parallel corpora are not redistributed in this repository.
 
-Repository Structure
+## Repository Structure
 .
 ├── src/reflective_translation/   # Core package (prompts, metrics, pipeline)
 ├── scripts/                      # Experiment and figure generation scripts
@@ -59,7 +59,7 @@ Repository Structure
 ├── setup.cfg
 └── README.md
 
-Installation
+## Installation
 
 Create a Python 3.10+ environment and install dependencies:
 
@@ -68,7 +68,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 pip install -e .
 
-Running Experiments
+## Running Experiments
 
 Set API keys if running with hosted LLMs:
 
@@ -92,7 +92,7 @@ To regenerate all plots used in the paper:
 
 python scripts/make_figures.py
 
-Data Availability
+## Data Availability
 
 This repository includes all processed evaluation outputs (CSV files) required to reproduce figures and tables in the paper.
 
