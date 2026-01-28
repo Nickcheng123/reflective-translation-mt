@@ -27,11 +27,9 @@ arXiv:2601.19871 (2026)
 
 Reflective Translation introduces a lightweight, inference-time framework in which a language model:
 
-Produces an initial translation
-
-Generates a structured self-critique identifying translation errors
-
-Produces a revised translation guided by masked reflective feedback
+1. Produces an initial translation
+2. Generates a structured self-critique identifying translation errors
+3. Produces a revised translation guided by masked reflective feedback
 
 This approach improves semantic fidelity and robustness in low-resource settings without additional training data or parameter updates.
 
@@ -48,7 +46,7 @@ https://huggingface.co/datasets/masakhane/ntrex_african
 Raw parallel corpora are not redistributed in this repository.
 
 ## Repository Structure
-.
+```
 ├── src/reflective_translation/   # Core package (prompts, metrics, pipeline)
 ├── scripts/                      # Experiment and figure generation scripts
 ├── outputs/
@@ -58,31 +56,31 @@ Raw parallel corpora are not redistributed in this repository.
 ├── requirements.txt
 ├── setup.cfg
 └── README.md
-
+```
 ## Installation
 
 Create a Python 3.10+ environment and install dependencies:
-
+```
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 pip install -e .
-
+```
 ## Running Experiments
 
 Set API keys if running with hosted LLMs:
-
+```
 export OPENAI_API_KEY="..."
 export ANTHROPIC_API_KEY="..."
-
+```
 Run the main pipeline (example):
-
+```
 python scripts/run_pipeline.py \
   --dataset all \
   --n 1000 \
   --model_first gpt-3.5 \
   --model_second haiku-3.5
-
+```
 
 All results are saved to outputs/csv/.
 
