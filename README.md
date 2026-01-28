@@ -9,9 +9,12 @@ This repository supports full reproduction of all experiments, tables, and figur
 ---
 
 ## Paper
-**Reflective Translation: Enhancing Low-Resource Machine Translation through Self-Reflection**  
-Nick Cheng  
-(arXiv submission under review)
+@article{cheng2026reflective,
+  title={Reflective Translation: Enhancing Low-Resource Machine Translation through Self-Reflection},
+  author={Cheng, Nicholas},
+  journal={arXiv preprint arXiv:2601.19871},
+  year={2026}
+}
 
 ---
 
